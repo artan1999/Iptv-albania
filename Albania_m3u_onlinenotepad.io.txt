@@ -1,0 +1,3021 @@
+#EXTM3U
+1. #EXTINF:-1,RTSH 1
+2. http://95.107.132.100/out/u/246_3.m3u8
+3. #EXTINF:-1,RTK1
+4. http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+5. #EXTINF:-1,21
+6. http://95.107.132.100/out/u/228_1.m3u8
+7. #EXTINF:-1,21 MIX
+8. http://5.135.92.130:5749/out/u/343_1.m3u8 
+9. #EXTINF:-1,KTV
+10. http://95.107.132.102/out/u/240_184.m3u8
+11. #EXTINF:-1,TRIBUNA
+12. http://stream.shqiptv.com:7080/8091/tracks-v1a1/index.m3u8
+13. #EXTINF:-1,klankosova
+14. http://stream2.itprishtina.com:90/klanks/index.m3u8
+15. #EXTINF:-1,ALSAT MAQEDONIS
+16. http://stream.shqiptv.com:7080/8013/index.m3u8
+17. #EXTINF:-1,MPT2
+18. http://stream.shqiptv.com:7080/8028/tracks-v1a1/index.m3u8
+19. #EXTINF:-1,arta (ktv)
+20. http://stream.shqiptv.com:7080/8045/tracks-v1a1/index.m3u8
+21. #EXTINF:-1,BESA
+22. http://163.172.102.117:8080/BESATV/index.m3u8
+23. #EXTINF:-1,TemaTV
+24. http://edge02eu.ekranet.com/tematv_234p/index.m3u8?e=b7edc5f8b26df09b329b99f7e7cb9a8e&c=tematv
+25. #EXTINF:-1,KLAN
+26. http://158.69.162.115:3361/out/u/290_3.m3u8
+27. #EXTINF:-1,Rrokum TV
+28. http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8 
+29. #EXTINF:-1,DUKAGJINi TV
+30. http://95.107.132.102/out/u/336_1.m3u8 
+31. #EXTINF:-1,VIZION PLUS
+32. http://95.107.132.100/out/u/412_3.m3u8
+33. #EXTINF:-1,KOHA TV
+34. rtmp://live.tvkoha.tv/live/koha/livestream
+35. #EXTINF:-1,RTK3
+36. http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+37. #EXTINF:-1,RTK4
+38. http://84.22.56.10:1935/rtk4stream/rtk4.stream/chunklist_w1416293160.m3u8 
+39. #EXTINF:-1,SHQIP
+40. http://5.135.92.130:5749/out/u/225_178.m3u8
+41. #EXTINF:-1,FILM NJE
+42. http://95.107.132.218/out/u/135_1.m3u8
+43. #EXTINF:-1,FILM DY
+44. http://95.107.132.218/out/u/151_1.m3u8
+45. #EXTINF:-1,FILM HITS
+46. http://158.69.162.115:3361/out/u/26_5.m3u8
+47. #EXTINF:-1,FILM AUTOR
+48. http://95.107.132.218/out/u/191_1.m3u8
+49. #EXTINF:-1,FILM DRAMA
+50. http://95.107.132.218/out/u/99_5.m3u8
+51. #EXTINF:-1,TRING ACTION
+52. http://5.135.92.130:5749/out/u/220_175.m3u8
+53. #EXTINF:-1,TRING SUPER
+54. http://5.135.92.130:5749/out/u/214_173.m3u8
+55. #EXTINF:-1,TRING LIFE
+56. http://5.135.92.130:5749/out/u/231_180.m3u8
+57. #EXTINF:-1,TIP
+58. http://95.107.132.100/out/u/263_1.m3u8 
+59. #EXTINF:-1,TRING WORLD
+60. http://95.107.132.100/out/u/299_1.m3u8
+61. #EXTINF:-1,TRING PLANET
+62. http://95.107.132.100/out/u/269_1.m3u8
+63. #EXTINF:-1,LIVING
+64. http://95.107.132.100/out/u/212_3.m3u8
+65. #EXTINF:-1,JOLLY
+66. http://95.107.132.100/out/u/231_1.m3u8 
+67. #EXTINF:-1,3+ http://5.135.92.130:5749/out/u/235_182.m3u8
+68. #EXTINF:-1 ,ALB Movie
+69. http://188.138.17.8:1935/albuk/albukplus.stream/playlist.m3u8
+70. #EXTINF:-1 ,ALBUK
+71. http://188.138.17.8:1935/albuk/albuk.stream/chunklist_w1458436068.m3u8
+72. #EXTINF:-1,al usa tv
+73. http://stream.shqiptv.com:7080/altvusa/index.m3u8
+74. #EXTINF:-1,RTV ZERI I KOSOVES
+75. http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
+76. #EXTINF:-1,Super Sonic Tv
+77. http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
+78. #EXTINF:-1,Super TV Folk
+79. http://str103.setplex.net:1935/228/stv_folk/playlist.m3u8
+80. #EXTINF:0,AMOL
+81. http://46.19.228.174:8001/hd/tracks-v1a1/index.m3u8
+82. #EXTINF:-1,dielli
+83. http://stream2.itprishtina.com:90/dielli/index.m3u8#EXTINF:-1,Weather Channel
+84. http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+85. #EXTINF:0,Russia Today Documentary
+86. http://rt.ashttp6.visionip.tv/live/RT_Doc-SD/playlist.m3u8
+87. #EXTINF:-1, fine living
+88. http://69.39.239.166:5000/live/543/543.m3u8
+89. #EXTINF:-1,History Lab
+90. http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+91. #EXTINF:-1,Animal Planet 92. http://smart-iptv.ro:8880/live/walti/valtiger/501.m3u8
+93. EXTINF:-1,BT Sport 1
+94. http://185.53.163.205:2700
+95. #EXTINF:-1,BT Sport 2 
+96. http://185.53.163.205:2506
+97. #EXTINF:-1,BT Sport 3 
+98. http://185.53.163.205:2701
+99. #EXTINF:-1,BT Sport ESPN 
+100. http://185.53.163.205:2507
+101. #EXTINF:-1,BT Sport Extra 1
+102. http://185.53.163.205:2707
+103. #EXTINF:-1,BT Sport Extra 2 
+104. http://185.53.163.205:2500
+105. #EXTINF:-1,BT Sport Extra 3 
+106. http://185.53.163.205:2501
+107. #EXTINF:-1,BT Sport Extra 4 
+108. http://185.53.163.205:2502
+109. #EXTINF:-1,BT Sport Extra 5
+110. http://185.53.163.205:2503
+111. #EXTINF:-1,BT Sport Extra 6 
+112. http://185.53.163.205:2504
+113. #EXTINF:-1,CHELSSA TV
+114. http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+115. #EXTINF:0,1 Partizan
+116. http://212.200.102.3:5000/udp/239.99.99.99:23999
+117. #EXTINF:0,SK4
+118. http://smarttv.tvviet.tv/live82/SK4.m3u8
+119. #EXTINF:0,SK5
+120. http://smarttv.tvviet.tv/live82/SK5.m3u8
+121. #EXTINF:0,SK6
+122. http://smarttv.tvviet.tv/live82/SK6.m3u8
+123. #EXTINF:-1 ,SPORT 1 HD
+124. http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+125. #EXTINF:-1 ,SPORT 2 HD
+126. http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+127. #EXTINF:-1,DIGI SPORT 2
+128. http://smart-iptv.ro:8880/live/walti/valtiger/12.m3u8
+129. #EXTINF:-1,DIGI SPORT 3
+130. http://smart-iptv.ro:8880/live/walti/valtiger/13.m3u8
+131. #EXTINF:-1,DIGI SPORT 4
+132. http://smart-iptv.ro:8880/live/walti/valtiger/14.m3u8
+133. #EXTINF:-1,EUROSPORT
+134. http://smart-iptv.ro:8880/live/walti/valtiger/29.m3u8
+135. #EXTINF:-1,EUROSPORT 2
+136. http://smart-iptv.ro:8880/live/walti/valtiger/30.m3u8
+137. #EXTINF:-1,A Sport HD
+138. http://85.132.71.6/turk/aspor/index.m3u8
+139. #EXTINF:-1,TRING NEWS
+140. http://95.107.132.100/out/u/287_3.m3u8
+141. #EXTINF:-1,TRING SPORT 1
+142. +36http://95.107.132.100/out/u/398_3.m3u8
+143. #EXTINF:-1,TRING SPORT 2
+144. http://stream.shqiptv.com:7080/8096/tracks-v1a1/index.m3u8 
+145. #EXTINF:-1,INtv
+146. http://80.91.115.211:1935/live/livestream/playlist.m3u8 #EXTINF:-1,LIVING
+147. http://95.107.132.100/out/u/212_3.m3u8
+148. #EXTINF:-1,StarplusAl
+149. http://163.172.102.117/StarplusAl/tracks-v1a1/index.m3u8
+150. #EXTINF:-1,channelone
+151. http://81.7.13.162/hls/channelone/index.m3u8 
+152. #EXTINF:-1,TV Jug
+153. http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
+154. #EXTINF:-1,rozafashkoder
+155. http://xrozafashkoder1x.api.channel.livestream.com/3.0/playlist.m3u8
+156. #EXTINF:-1,tvr
+157. http://stream1.megaiptv.info/tvrPr/playlist.m3u8
+158. #EXTINF:0,APOLLON TV http://185.80.224.14:554/live/rtmp.stream/playlist.m3u8 
+159. #EXTINF:-1,Wedding Channel AL
+160. http://wedding-channel.tv/stream.m3u8
+161. #EXTINF:-1,A1 report
+162. http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+163. #EXTINF:0,ORA NEWS
+164. http://109.236.81.91/hls/oranews/index.m3u8 
+165. #EXTINF:-1,NEWS 24
+166. http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+167. #EXTINF:-1,ALB Muzic LIVE http://188.138.17.8:1935/albuk/albmus.stream/playlist.m3u8
+168. ##EXTINF:-1 ,ALB Movie
+169. http://188.138.17.8:1935/albuk/albukplus.stream/playlist.m3u8
+170. #EXTINF:-1 ,ALBUK
+171. http://188.138.17.8:1935/albuk/albuk.stream/chunklist_w1458436068.m3u8
+172. #EXTINF:-1,dasma tv
+173. http://91.187.117.230:8080
+174. #EXTINF:-1,TRING TRING
+175. http://95.107.132.100/out/u/260_1.m3u8
+176. #EXTINF:0,RTRS
+177. http://smarttv.tvviet.tv/live82/RTRS.m3u8
+178. #EXTINF:0,RTS 1
+179. http://smarttv.tvviet.tv/live72/RTS1.m3u8
+180. #EXTINF:0,RTS 2
+181. http://smarttv.tvviet.tv/live92/RTS2.m3u8
+182. #EXTINF:0,RTS HD 183. http://smarttv.tvviet.tv/live12/RTSHD.m3u8
+184. #EXTINF:-1,MK MUSIC
+185. http://141.136.14.18/kanal1/kanal1.m3u8
+186. #EXTINF:0,BH
+187. http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
+188. #EXTINF:-1,BOSNA TV1
+189. http://de2-2.nettvplus.com:8080/stream/?channel=promotvsi3btv&stream=1mb&sp=nettvplus?u=
+190. #EXTINF:-1, SKY Folk
+191. http://skyfolk.mk/live.m3u8
+192. #EXTINF:-1,JATA TV
+193. http://109.175.31.2:8525
+194. #EXTINF:-1,Plus Tv Mk
+195. http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+196. #EXTINF:-1,MLAVA
+197. http://109.72.63.194:5900
+198. #EXTINF:-1,KCN 1
+199. http://212.200.102.3:5000/rtp/239.0.0.1:5000
+200. #EXTINF:-1,KCN 2
+201. http://212.200.102.3:5000/rtp/239.0.0.2:5000
+202. #EXTINF:-1,KCN 3
+203. http://212.200.102.3:5000/rtp/239.0.0.3:5000 
+204. #EXTINF:-1,M2O TV
+205. http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+206. #EXTINF:-1,CITY
+207. http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/chunklist_w377062489.m3u8
+208. #EXTINF:-1,NRJ HITS http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8 
+209. #EXTINF:-1,HEART TV
+210. http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+211. #EXTINF:-1,Capital TV http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
+sd=10&rebase=on
+212. #EXTINF:-1,IT-RTL 102.5
+213. http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8 #EXTINF:-1,BBC
+WORLD NEWS http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+214. #EXTINF:-1,DW
+215. http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
+216. #EXTINF:-1, Sky News
+217. http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+218. #EXTINF:-1,abcnews
+219. http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+220. #EXTINF:-1,france24
+221. http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
+222. #EXTINF:-1,Insight HD
+223. http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
+224. #EXTINF:0,Eurosport 1 HD
+225. http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+226. #EXTINF:-1,ALL Sports
+227. http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+228. #EXTINF:0,pac 12
+229. http://xrxs.net/video/live-p12netw-2328.m3u8
+230. #EXTINF:-1,ID Fashion HD
+231. http://95.67.8.22/hls/idfashion/index.m3u8
+232. #EXTINF:-1,HD Media 3D
+233. http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8 
+234. #EXTINF:-1,TV5
+235. MONDE https://api-asia.tv5monde.com/Live/250600/4792245510001-5/tv5plusinfo/master.m3u8
+236. #EXTINF:-1,Nasa tv
+237. https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
+238. XTINF:0,TRT 1 HD
+239. http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+240. #EXTINF:0,TRT HABER HD
+241. http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+242. #EXTINF:0,TRT OKUL
+243. http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
+244. #EXTINF:0,TRT TüRK
+245. http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+246. #EXTINF:0,TRT BELGESEL HD
+247. http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
+248. #EXTINF:0,TRT AVAZ
+249. http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+250. #EXTINF:0,TRT MüZIK
+251. http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+252. #EXTINF:0,TRT ARAPçA
+253. http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+254. #EXTINF:0,TRT DIYANET
+255. http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+256. #EXTINF:0,TRT KURDI
+257. http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+258. #EXTINF:0,CNNTüRK
+259. http://live.netd.com.tr/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+260. #EXTINF:0,TRT ÇOCUK
+261. http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+262. #EXTINF:0,KANAL D
+263. http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+264. #EXTINF:-1,KANALD HD
+265. http://37.48.83.10/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+266. #EXTINF:0,SHOW MAX
+267. http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
+268. #EXTINF:0,TV 2
+269. http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+270. #EXTINF:0,CNN TüRK
+271. http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/index.m3u8 272. #EXTINF:0,DREAM TV
+273. http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/index.m3u8
+274. #EXTINF:0,DREAM TüRK
+275. http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/index.m3u8
+276. #EXTINF:0,KANAL 7
+277. http://livetr.gostream.nl/kanal7hq/kanal7hq/master.m3u8
+278. #EXTINF:0,ÜLKE TV
+279. http://livetr.gostream.nl/ulketvhq/ulketvhq/master.m3u8
+280. #EXTINF:0,SEMERKAND
+281. http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
+282. #EXTINF:0,TV 4
+283. http://mn-l.mncdn.com:1935/r_karamel/karamel/master.m3u8
+284. #EXTINF:0,NRT2
+285. http://nrttv.iptv-playoutcenter.de:1935/nrt2/nrt2.stream_1/master.m3u8
+286. #EXTINF:0,BLOOMBERG HT
+287. http://mn-l.mncdn.com/bloomberght/bloomberght2/index.m3u8
+288. #EXTINF:0,24
+289. http://mn-l.mncdn.com/kanal24/kanal243/chunklist_w1542967589.m3u8
+290. #EXTINF:0,TVNET
+291. http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b850000.m3u8
+292. #EXTINF:0,BENGüTüRK TV
+293. http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8?wowzasessionid=379483538
+294. #EXTINF:0,BRT HD
+295. http://wms.brtk.net/live/BRTHD/playlist.m3u8
+296. #EXTINF:0,TRT ÇOCUK
+297. http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+298. #EXTINF:0,SEMERKAND HD
+299. http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
+300. #EXTINF:0,BEYAZ TV
+301. http://37.77.2.234:1935/beyaz/live/playlist.m3u8
+302. #EXTINF:0,POWER HD
+303. http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
+304. #EXTINF:0,POWERTüRK HD
+305. http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/playlist.m3u8
+306. #EXTINF:0,DREAM
+307. http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+308. #EXTINF:0,DREAMTüRK
+309. http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+310. #EXTINF:0,NUMBER ONE
+311. http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
+312. #EXTINF:0,NUMBER ONE TüRK
+313. http://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp/playlist.m3u8
+314. #EXTINF:0,BELGESEL TV
+315. http://188.165.239.200:7088/
+316. #EXTINF:0,TGRT BELGESEL
+317. http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+318. #EXTINF:0,SPORTS TV
+319. rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+320. #EXTINF:0,BURSASPOR TV
+321. http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
+322. #EXTINF:0,FANATIK TV
+323. rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
+324. #EXTINF:0,UCANKUS TV
+325. http://37.77.31.3:1935/ucak/live/playlist.m3u8
+326. #EXTINF:0,ÇAY TV
+327. http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+328. #EXTINF:0,PLANET PEMBE
+329. rtmp://77.223.146.117/live/planetp
+330. #EXTINF:0,PLANET TüRK
+331. rtmp://77.223.146.117/live/planett
+332. #EXTINF:0,KANAL A
+333. http://stream.n3.noc.com.tr/kanala/kanala/chunklist_w1082384770.m3u8
+334. #EXTINF:0,AKSU TV
+335. http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
+336. #EXTINF:0,KAPADOKYA TV
+337. http://yayin3.canlitv.com:1935/live/kapadokyatv/HasBahCa.m3u8
+338. #EXTINF:0,rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
+339. #EXTINF:0,DOST TV
+340. http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
+341. #EXTINF:0,BEREKET TV
+342. http://berekettv.mediatriple.net/berekettv/berekethayvan.smil/Playlist.m3u8
+343. #EXTINF:0,WORLD TRAVEL CHANNEL
+344. rtmp://stream.taksimbilisim.com:1935/wtc/bant1
+345. #EXTINF:0,VUSLAT TV
+346. http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
+347. #EXTINF:0,KANAL V
+348. rtmp://stream2.taksimbilisim.com/kanalvip/bant1
+349. #EXTINF:0,Urtmp://stream2.taksimbilisim.com/egemtv/bant1
+350. #EXTINF:0,UFUK TV
+351. http://yayin3.canlitv.com:1935/live/ufuktv/playlist.m3u8
+352. #EXTINF:0,TV KAYSERI
+353. rtmp://yayin3.canliyayin.org/tvkayseri/tvkayseri
+354. #EXTINF:0,TV 2000
+355. rtmp://stream.taksimbilisim.com/tv2000/bant1
+356. #EXTINF:0,TV52
+357. rtmp://stream.taksimbilisim.com/tv52/bant1
+358. #EXTINF:0,TV41
+359. rtmp://stream.taksimbilisim.com/tv41/bant1
+360. #EXTINF:0,TV10
+361. rtmp://5.135.142.60:1935/tv10/xetero
+362. #EXTINF:0,TARSUS GüNEY TV 363. rtmp://stream.taksimbilisim.com:1935/tarsusguneytv/bant1
+364. #EXTINF:0,TARhttp://yayin3.canlitv.com:1935/live/tarimturktv/playlist.m3u8
+365. #EXTINF:0,MERSIN SUN TV
+366. rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
+367. #EXTINF:0,TRT 1 TR
+368. http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_900_av-b.m3u8?sd=10&rebase=on
+369. #EXTINF:0,TRT HABER TR
+370. http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_900_av-b.m3u8?sd=10&rebase=on
+371. #EXTINF:0,TRT AVAZ TR
+372. http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_700_av-p.m3u8?sd=10&rebase=on
+373. #EXTINF:0,TRT COCUK TR
+374. http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_600_av-b.m3u8?sd=10&rebase=on
+375. #EXTINF:0,TRT BELGESEL TR
+376. http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_900_av-p.m3u8?sd=10&rebase=on
+377. #EXTINF:0,TRT MUZIK TR
+378. http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_700_av-p.m3u8?sd=10&rebase=on
+379. #EXTINF:0,TRT WORLD TR
+380. http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_900_av-b.m3u8?sd=10&rebase=on #
+381. #EXTINF:-1,300 Rise Of An Empire
+382. http://www.deadlyblogger.com/NewRelease/300rise.mp4
+383. #EXTINF:-1,After Earth
+384. http://www.deadlyblogger.com/NewRelease/after.mp4
+385. #EXTINF:-1,Ali
+386. http://www.deadlyblogger.com/NewRelease/ali1.mp4
+387. #EXTINF:-1,Turbo
+388. http://www.deadlyblogger.com/NewRelease/turbo.mp4 
+389. #EXTINF:-1,The Hobbit The Desolation Of Smaug
+390. http://www.deadlyblogger.com/NewRelease/smaug2013.
+391. #EXTINF:0,radio 21 DE https://api.new.livestream.com/accounts/22300508/events/6675945/broadcasts/156666441.secure.m3u8
+392. #EXTINF:0,tribuna
+393. http://cm.hostlagarto.com:8081/TRIBUNA-TV/tribuna.myStream/playlist.m3u8
+394. #EXTINF:0,rmtv es
+395. http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+396. #EXTINF:0,lasexta es
+397. http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-p.m3u8
+398. #EXTINF:0,AXN_HD_1 PL
+399. https://n-4-16.dcs.redcdn.pl/hls/o2/redefine/nlive/AXN_HD_1/1938/0/tv-ss/live.isml/playlist.m3u8
+400. #EXTINF:0,Videolina
+401. http://178.33.229.111:1935/live/Videolina/chunklist_w562060318.m3u8
+402. #EXTINF:0,raimovie
+403. http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
+404. #EXTINF:0,tg24
+405. http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+406. #EXTINF:0,rai5
+407. http://originstream12.rai.it:1935/live/smil:rai5.smil/chunklist_b1200000.m3u8
+408. #EXTINF:0,Paramount Channel
+409. http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
+410. #EXTINF:0,raipremium
+411. http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8 
+412. #EXTINF:-1,Radio
+413. kosova1 http://82.114.72.2:8088/;stream.mp3
+414. #EXTINF:-1,Radio kosova2
+415. http://82.114.72.2:8098/;stream.mp3
+416. #EXTINF:-1,Radio Tiana
+417. http://37.59.32.115:5160/;stream.mp3
+418. #EXTINF:-1,Radio Tiana2
+419. http://37.59.32.115:5162/;stream.mp3
+420. #EXTINF:-1,Radio Tirana Internacional
+421. http://37.59.32.115:5164/;stream.mp3
+422. #EXTINF:-1,Radio kosova e lire
+423. http://188.165.192.5:8018/;stream.mp3
+424. #EXTINF:-1,Radio Gjakova
+425. http://37.26.69.30:8080/;stream.mp3
+426. #EXTINF:-1,Radio Llapi
+427. http://5.189.158.54:8555/;stream.mp3
+428. #EXTINF:-1,Radio Dukagjini
+429. http://s6.voscast.com:8824/;stream.mp3
+430. #EXTINF:-1,Radio lushnja
+431. http://74.221.215.47:8000/;stream.mp3
+432. #EXTINF:-1,Radio Kumanova
+433. http://5.39.82.219:10030/;stream.mp3
+434. #EXTINF:-1,Radio Deqani
+435. http://streaming.jusahost.com:9994/;stream.mp3
+436. #EXTINF:-1,Radio Dardania
+437. http://s2.voscast.com:8824/;stream.mp3
+438. #EXTINF:-1,Radio Atdheu
+439. http://167.114.207.237:9978/;stream.mp3
+440. #EXTINF:-1,Radio Top iliria http://streaming.jusahost.com:9994/;stream.mp3
+441. #EXTINF:-1,Radio Vati
+442. http://radiostream.neotel.mk:8000/;stream.mp3
+443. #EXTINF:-1,Radio Fontana
+444. http://46.4.104.253:8010/;stream.mp3
+445. #EXTINF:-1,Radio Dielli
+446. http://77.92.64.44:8010/;stream.mp3
+447. #EXTINF:-1,Radio Love
+448. http://s2.voscast.com:8828/;stream.mp3
+449. #EXTINF:-1,Top Radio
+450. http://tar.stream.dev.al:9078/;stream.mp3
+451. #EXTINF:-1,Dance Albania
+452. http://192.99.0.170:5232/;stream.mp3
+453. #EXTINF:-1,Radio Marimanga 454. http://91.82.85.71:9084/;stream.mp3
+455. #EXTINF:-1,Radio Pulla
+456. http://46.4.104.253:9986/;stream.mp3
+457. #EXTINF:-1,Siauliu TV
+458. http://193.8.246.110:8880/play/10095
+459. #EXTINF:-1,SPORT1 LT
+460. http://193.8.246.110:8880/play/10045 
+461. #EXTINF:-1,MDF1 DE
+462. http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+463. #EXTINF:-1,1 DE
+464. http://live-lh.daserste.de/i/daserste_de@91204/index_2692_av-p.m3u8
+465. #EXTINF:-1,BCTV DE
+466. http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+467. #EXTINF:-1,ISAR TV DE
+468. http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
+469. #EXTINF:-1,MDF1 DE
+470. http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+471. #EXTINF:-1,MUENCHEN TV DE
+472. http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/hasbahca.m3u8
+473. #EXTINF:-1,O TV DE
+474. http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
+475. #EXTINF:-1,OKD DE
+476. http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
+477. #EXTINF:-1,test DE
+478. http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
+479. #EXTINF:-1,OK DE
+480. http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
+481. #EXTINF:0,TVR 2 RO
+482. http://178.21.122.94:1935/live/_definst_/tvr2/playlist.m3u8?wowzasessionid=900722108&time=1461946221456
+483. #EXTINF:-1,test RO
+484. http://1tv.ambra.ro
+485. #EXTINF:-1,ALFAOMEGA TV RO
+486. http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
+487. #EXTINF:-1,A1 TV RO
+488. http://89.43.138.29/live/playlist13.m3u8
+489. #EXTINF:-1,BANAT TV RO
+490. http://81.18.66.155:1935/live/banat-tv/playlist.m3u8
+491. #EXTINF:-1,test RO
+492. http://adv-video-cache.distinct.ro/live_playlist/_definst_/casamia/playlist.m3u8
+493. #EXTINF:-1,TV7 RO
+494. http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
+495. #EXTINF:-1,TV DIASPORA RO
+496. http://streamtv.go.ro:1935/tvdiaspora/live/playlist.m3u8 #EXTINF:-1,DIGI 24 RO 
+http://81.196.0.126/digi24edge/digi24hdhqhls/chunklist_w811272067.m3u8
+497. #EXTINF:-1,ISAI TV RO
+498. http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
+499. #EXTINF:-1,test RO
+500. http://s1.streamnet.ro:8006/stream.flv
+501. #EXTINF:-1,TELESHOPPING RO
+502. http://83.166.203.14:1935/ida/ida_1000k.stream/chunklist.m3u8?wowzasessionid=1144202524
+503. #EXTINF:-1,ITV RO
+504. http://s1.streamnet.ro:8014/stream.flv
+505. #EXTINF:-1,KANAL D RO
+506. http://80.86.107.169/iphone/live.m3u8
+507. #EXTINF:-1,test RO
+508. http://webmobile.xdev.ro:81/tv13/playlist.m3u8
+509. #EXTINF:-1,S TV RO
+510. http://s2.streamnet.ro:8035/stream.flv
+511. #EXTINF:-1,test RO
+512. http://rtvflash.smcmobile.ro:8020/rtv.flv
+513. #EXTINF:-1,TELEMOIA RO
+514. http://89.35.208.130
+515. #EXTINF:-1,TELESTAR 1 RO
+516. http://193.34.109.10:8090
+517. #EXTINF:-1,test RO http://83.103.150.198:8080
+518. #EXTINF:-1,test RO
+519. http://streams.iptv.zone/p/71050/c/110/u/4658/KtHe28D1mc7fbqcJqVEmHV2h0ey7rd
+520. #EXTINF:-1,ALFA MEDIA RO
+521. http://188.173.22.231:8080/video/emisie.m3u8
+522. #EXTINF:-1,TV PLUS RO
+523. http://85.186.146.34:8080
+524. #EXTINF:-1,TV SE RO
+525. http://iptv.tvsatrm.ro/livestream/tvse.m3u8
+526. #EXTINF:-1,U TV RO
+527. http://81.196.0.126/utvedge/utvlivehls/chunklist_w1358444381.m3u8
+528. #EXTINF:-1,ALICE RO
+529. http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml
+530. #EXTINF:-1,CHELSSA TV
+531. http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+532. #EXTINF:0,1 Partizan
+533. http://212.200.102.3:5000/udp/239.99.99.99:23999
+534. #EXTINF:-1 ,SPORT 1 HD
+535. http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+536. #EXTINF:-1 ,SPORT 2 HD
+537. http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+538. #EXTINF:-1,Abu Dabi Sport 1
+539. http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+540. #EXTINF:-1,Abu Dabi Sport 2
+541. http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+542. #EXTINF:-1 ,IPI 10
+543. http://uk3.zecast.com:1935/star-live/starsp2/playlist.m3u8 544. #EXTINF:-1,UK SKY MIX
+545. http://yopitv.tv:25461/live/LOCALOCA4635291/LOCALOCA4635291/63.m3u8
+546. #EXTINF:-1,TJK TV
+547. http://tjktv.ercdn.net/tjktv_576p.m3u8
+548. #EXTINF:-1 ,TRT SPORT
+549. http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+550. #EXTINF:-1,Eurosport
+551. http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+552. #EXTINF:-1,Eurosport 1 EN
+553. http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+554. #EXTINF:-1,BAIEN
+555. http://149.202.208.85:8080/mystreambhenssp-1/Strm/index.m3u8
+556. #EXTINF:-1,DIGI SPORT 2
+557. http://smart-iptv.ro:8880/live/walti/valtiger/12.m3u8
+558. #EXTINF:-1,DIGI SPORT 3
+559. http://smart-iptv.ro:8880/live/walti/valtiger/13.m3u8
+560. #EXTINF:-1,DIGI SPORT 4
+561. http://smart-iptv.ro:8880/live/walti/valtiger/14.m3u8
+562. #EXTINF:-1,EUROSPORT
+563. http://smart-iptv.ro:8880/live/walti/valtiger/29.m3u8
+564. #EXTINF:-1,EUROSPORT 2
+565. http://smart-iptv.ro:8880/live/walti/valtiger/30.m3u8
+566. #EXTINF:-1,A Sport HD
+567. http://85.132.71.6/turk/aspor/index.m3u8
+568. #EXTINF:-1,TRING NEWS
+569. http://95.107.132.100/out/u/287_3.m3u8
+570. #EXTINF:-1,TRING SPORT 1
+571. +36http://95.107.132.100/out/u/398_3.m3u8
+572. #EXTINF:-1,TRING SPORT 2
+573. http://stream.shqiptv.com:7080/8096/tracks-v1a1/index.m3u8 
+574. #EXTINF:-1,INtv
+575. http://80.91.115.211:1935/live/livestream/playlist.m3u8 #EXTINF:-1,LIVING
+576. http://95.107.132.100/out/u/212_3.m3u8
+577. #EXTINF:-1,StarplusAl
+578. http://163.172.102.117/StarplusAl/tracks-v1a1/index.m3u8
+579. #EXTINF:-1,channelone
+580. http://81.7.13.162/hls/channelone/index.m3u8 
+581. #EXTINF:-1,TV Jug
+582. http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
+583. #EXTINF:-1,rozafashkoder
+584. http://xrozafashkoder1x.api.channel.livestream.com/3.0/playlist.m3u8
+585. #EXTINF:-1,tvr
+586. http://stream1.megaiptv.info/tvrPr/playlist.m3u8
+587. #EXTINF:0,APOLLON TV http://185.80.224.14:554/live/rtmp.stream/playlist.m3u8 
+588. #EXTINF:-1,Wedding Channel AL
+589. http://wedding-channel.tv/stream.m3u8
+590. #EXTINF:-1,A1 report
+591. http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+592. #EXTINF:0,ORA NEWS
+593. http://109.236.81.91/hls/oranews/index.m3u8 
+594. #EXTINF:-1,NEWS 24
+595. http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+596. #EXTINF:-1,ALB Muzic LIVE http://188.138.17.8:1935/albuk/albmus.stream/playlist.m3u8
+597. ##EXTINF:-1 ,ALB Movie
+598. http://188.138.17.8:1935/albuk/albukplus.stream/playlist.m3u8
+599. #EXTINF:-1 ,ALBUK
+600. http://188.138.17.8:1935/albuk/albuk.stream/chunklist_w1458436068.m3u8
+601. #EXTINF:-1,dasma tv
+602. http://91.187.117.230:8080
+603. #EXTINF:-1,TRING TRING
+604. http://95.107.132.100/out/u/260_1.m3u8
+605. #EXTINF:0,RTRS
+606. http://smarttv.tvviet.tv/live82/RTRS.m3u8
+607. #EXTINF:0,RTS 1
+608. http://smarttv.tvviet.tv/live72/RTS1.m3u8
+609. #EXTINF:0,RTS 2
+610. http://smarttv.tvviet.tv/live92/RTS2.m3u8
+611. #EXTINF:0,RTS HD
+612. http://smarttv.tvviet.tv/live12/RTSHD.m3u8
+613. #EXTINF:-1,MK MUSIC
+614. http://141.136.14.18/kanal1/kanal1.m3u8
+615. #EXTINF:0,BH
+616. http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
+617. #EXTINF:-1,BOSNA TV1
+618. http://de2-2.nettvplus.com:8080/stream/?channel=promotvsi3btv&stream=1mb&sp=nettvplus?u=
+619. #EXTINF:-1, SKY Folk
+620. http://skyfolk.mk/live.m3u8
+621. #EXTINF:-1,JATA TV
+622. http://109.175.31.2:8525
+623. #EXTINF:-1,Plus Tv Mk
+624. http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+625. #EXTINF:-1,MLAVA
+626. http://109.72.63.194:5900
+627. #EXTINF:-1,KCN 1
+628. http://212.200.102.3:5000/rtp/239.0.0.1:5000
+629. #EXTINF:-1,KCN 2
+630. http://212.200.102.3:5000/rtp/239.0.0.2:5000
+631. #EXTINF:-1,KCN 3
+632. http://212.200.102.3:5000/rtp/239.0.0.3:5000 
+633. #EXTINF:-1,M2O TV
+634. http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on 635. #EXTINF:-1,CITY
+636. http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/chunklist_w377062489.m3u8
+637. #EXTINF:-1,NRJ HITS http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8 
+638. #EXTINF:-1,HEART TV
+639. http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+640. #EXTINF:-1,Capital TV http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
+sd=10&rebase=on
+641. #EXTINF:-1,IT-RTL 102.5
+642. http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8 #EXTINF:-1,BBC
+WORLD NEWS http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+643. #EXTINF:-1,DW
+644. http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
+645. #EXTINF:-1, Sky News
+646. http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+647. #EXTINF:-1,abcnews
+648. http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+649. #EXTINF:-1,france24
+650. http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
+651. #EXTINF:-1,Insight HD
+652. http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
+653. #EXTINF:0,Eurosport 1 HD
+654. http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+655. #EXTINF:-1,ALL Sports
+656. http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+657. #EXTINF:0,pac 12
+658. http://xrxs.net/video/live-p12netw-2328.m3u8
+659. #EXTINF:-1,ID Fashion HD
+660. http://95.67.8.22/hls/idfashion/index.m3u8
+661. #EXTINF:-1,HD Media 3D
+662. http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8 
+663. #EXTINF:-1,TV5
+664. MONDE https://api-asia.tv5monde.com/Live/250600/4792245510001-5/tv5plusinfo/master.m3u8
+665. #EXTINF:-1,Nasa tv
+666. https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
+667. XTINF:0,TRT 1 HD
+668. http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+669. #EXTINF:0,TRT HABER HD
+670. http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+671. #EXTINF:0,TRT OKUL
+672. http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
+673. #EXTINF:0,TRT TüRK
+674. http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+675. #EXTINF:0,TRT BELGESEL HD
+676. http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
+677. #EXTINF:0,TRT AVAZ
+678. http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+679. #EXTINF:0,TRT MüZIK
+680. http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+681. #EXTINF:0,TRT ARAPçA
+682. http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+683. #EXTINF:0,TRT DIYANET
+684. http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+685. #EXTINF:0,TRT KURDI
+686. http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+687. #EXTINF:0,CNNTüRK
+688. http://live.netd.com.tr/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+689. #EXTINF:0,TRT ÇOCUK
+690. http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+691. #EXTINF:0,KANAL D
+692. http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+693. #EXTINF:-1,KANALD HD
+694. http://37.48.83.10/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+695. #EXTINF:0,SHOW MAX
+696. http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
+697. #EXTINF:0,TV 2
+698. http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+699. #EXTINF:0,CNN TüRK
+700. http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/index.m3u8
+701. #EXTINF:0,DREAM TV
+702. http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/index.m3u8
+703. #EXTINF:0,DREAM TüRK
+704. http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/index.m3u8
+705. #EXTINF:0,KANAL 7
+706. http://livetr.gostream.nl/kanal7hq/kanal7hq/master.m3u8
+707. #EXTINF:0,ÜLKE TV
+708. http://livetr.gostream.nl/ulketvhq/ulketvhq/master.m3u8
+709. #EXTINF:0,SEMERKAND
+710. http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
+711. #EXTINF:0,TV 4
+712. http://mn-l.mncdn.com:1935/r_karamel/karamel/master.m3u8
+713. #EXTINF:0,NRT2
+714. http://nrttv.iptv-playoutcenter.de:1935/nrt2/nrt2.stream_1/master.m3u8
+715. #EXTINF:0,BLOOMBERG HT
+716. http://mn-l.mncdn.com/bloomberght/bloomberght2/index.m3u8
+717. #EXTINF:0,24
+718. http://mn-l.mncdn.com/kanal24/kanal243/chunklist_w1542967589.m3u8
+719. #EXTINF:0,TVNET
+720. http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b850000.m3u8
+721. #EXTINF:0,BENGüTüRK TV
+722. http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8?wowzasessionid=379483538
+723. #EXTINF:0,BRT HD 724. http://wms.brtk.net/live/BRTHD/playlist.m3u8
+725. #EXTINF:0,TRT ÇOCUK
+726. http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+727. #EXTINF:0,SEMERKAND HD
+728. http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
+729. #EXTINF:0,BEYAZ TV
+730. http://37.77.2.234:1935/beyaz/live/playlist.m3u8
+731. #EXTINF:0,POWER HD
+732. http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
+733. #EXTINF:0,POWERTüRK HD
+734. http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/playlist.m3u8
+735. #EXTINF:0,DREAM
+736. http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+737. #EXTINF:0,DREAMTüRK
+738. http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+739. #EXTINF:0,NUMBER ONE
+740. http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
+741. #EXTINF:0,NUMBER ONE TüRK
+742. http://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp/playlist.m3u8
+743. #EXTINF:0,BELGESEL TV
+744. http://188.165.239.200:7088/
+745. #EXTINF:0,TGRT BELGESEL
+746. http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+747. #EXTINF:0,SPORTS TV
+748. rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+749. #EXTINF:0,BURSASPOR TV
+750. http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
+751. #EXTINF:0,FANATIK TV
+752. rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
+753. #EXTINF:0,UCANKUS TV
+754. http://37.77.31.3:1935/ucak/live/playlist.m3u8
+755. #EXTINF:0,ÇAY TV
+756. http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+757. #EXTINF:0,PLANET PEMBE
+758. rtmp://77.223.146.117/live/planetp
+759. #EXTINF:0,PLANET TüRK
+760. rtmp://77.223.146.117/live/planett
+761. #EXTINF:0,KANAL A
+762. http://stream.n3.noc.com.tr/kanala/kanala/chunklist_w1082384770.m3u8
+763. #EXTINF:0,AKSU TV
+764. http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
+765. #EXTINF:0,KAPADOKYA TV
+766. http://yayin3.canlitv.com:1935/live/kapadokyatv/HasBahCa.m3u8
+767. #EXTINF:0,rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
+768. #EXTINF:0,DOST TV
+769. http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
+770. #EXTINF:0,BEREKET TV
+771. http://berekettv.mediatriple.net/berekettv/berekethayvan.smil/Playlist.m3u8
+772. #EXTINF:0,WORLD TRAVEL CHANNEL
+773. rtmp://stream.taksimbilisim.com:1935/wtc/bant1
+774. #EXTINF:0,VUSLAT TV
+775. http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
+776. #EXTINF:0,KANAL V
+777. rtmp://stream2.taksimbilisim.com/kanalvip/bant1
+778. #EXTINF:0,Urtmp://stream2.taksimbilisim.com/egemtv/bant1
+779. #EXTINF:0,UFUK TV
+780. http://yayin3.canlitv.com:1935/live/ufuktv/playlist.m3u8
+781. #EXTINF:0,TV KAYSERI
+782. rtmp://yayin3.canliyayin.org/tvkayseri/tvkayseri
+783. #EXTINF:0,TV 2000
+784. rtmp://stream.taksimbilisim.com/tv2000/bant1
+785. #EXTINF:0,TV52
+786. rtmp://stream.taksimbilisim.com/tv52/bant1
+787. #EXTINF:0,TV41
+788. rtmp://stream.taksimbilisim.com/tv41/bant1
+789. #EXTINF:0,TV10
+790. rtmp://5.135.142.60:1935/tv10/xetero
+791. #EXTINF:0,TARSUS GüNEY TV
+792. rtmp://stream.taksimbilisim.com:1935/tarsusguneytv/bant1
+793. #EXTINF:0,TARhttp://yayin3.canlitv.com:1935/live/tarimturktv/playlist.m3u8
+794. #EXTINF:0,MERSIN SUN TV
+795. rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
+796. #EXTINF:0,TRT 1 TR
+797. http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_900_av-b.m3u8?sd=10&rebase=on
+798. #EXTINF:0,TRT HABER TR
+799. http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_900_av-b.m3u8?sd=10&rebase=on
+800. #EXTINF:0,TRT AVAZ TR
+801. http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_700_av-p.m3u8?sd=10&rebase=on
+802. #EXTINF:0,TRT COCUK TR
+803. http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_600_av-b.m3u8?sd=10&rebase=on
+804. #EXTINF:0,TRT BELGESEL TR
+805. http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_900_av-p.m3u8?sd=10&rebase=on
+806. #EXTINF:0,TRT MUZIK TR
+807. http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_700_av-p.m3u8?sd=10&rebase=on
+808. #EXTINF:0,TRT WORLD TR
+809. http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_900_av-b.m3u8?sd=10&rebase=on #
+810. #EXTINF:-1,300 Rise Of An Empire
+811. http://www.deadlyblogger.com/NewRelease/300rise.mp4
+812. #EXTINF:-1,After Earth
+813. http://www.deadlyblogger.com/NewRelease/after.mp4
+814. #EXTINF:-1,Ali 815. http://www.deadlyblogger.com/NewRelease/ali1.mp4
+816. #EXTINF:-1,Turbo
+817. http://www.deadlyblogger.com/NewRelease/turbo.mp4 
+818. #EXTINF:-1,The Hobbit The Desolation Of Smaug
+819. http://www.deadlyblogger.com/NewRelease/smaug2013.
+820. #EXTINF:0,radio 21 DE https://api.new.livestream.com/accounts/22300508/events/6675945/broadcasts/156666441.secure.m3u8
+821. #EXTINF:0,tribuna
+822. http://cm.hostlagarto.com:8081/TRIBUNA-TV/tribuna.myStream/playlist.m3u8
+823. #EXTINF:0,rmtv es
+824. http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+825. #EXTINF:0,lasexta es
+826. http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-p.m3u8
+827. #EXTINF:0,AXN_HD_1 PL
+828. https://n-4-16.dcs.redcdn.pl/hls/o2/redefine/nlive/AXN_HD_1/1938/0/tv-ss/live.isml/playlist.m3u8
+829. #EXTINF:0,Videolina
+830. http://178.33.229.111:1935/live/Videolina/chunklist_w562060318.m3u8
+831. #EXTINF:0,raimovie
+832. http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
+833. #EXTINF:0,tg24
+834. http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+835. #EXTINF:0,rai5
+836. http://originstream12.rai.it:1935/live/smil:rai5.smil/chunklist_b1200000.m3u8
+837. #EXTINF:0,Paramount Channel
+838. http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
+839. #EXTINF:0,raipremium
+840. http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8 
+841. #EXTINF:-1,Radio
+842. kosova1 http://82.114.72.2:8088/;stream.mp3
+843. #EXTINF:-1,Radio kosova2
+844. http://82.114.72.2:8098/;stream.mp3
+845. #EXTINF:-1,Radio Tiana
+846. http://37.59.32.115:5160/;stream.mp3
+847. #EXTINF:-1,Radio Tiana2
+848. http://37.59.32.115:5162/;stream.mp3
+849. #EXTINF:-1,Radio Tirana Internacional
+850. http://37.59.32.115:5164/;stream.mp3
+851. #EXTINF:-1,Radio kosova e lire
+852. http://188.165.192.5:8018/;stream.mp3
+853. #EXTINF:-1,Radio Gjakova
+854. http://37.26.69.30:8080/;stream.mp3
+855. #EXTINF:-1,Radio Llapi
+856. http://5.189.158.54:8555/;stream.mp3
+857. #EXTINF:-1,Radio Dukagjini
+858. http://s6.voscast.com:8824/;stream.mp3
+859. #EXTINF:-1,Radio lushnja
+860. http://74.221.215.47:8000/;stream.mp3
+861. #EXTINF:-1,Radio Kumanova
+862. http://5.39.82.219:10030/;stream.mp3
+863. #EXTINF:-1,Radio Deqani
+864. http://streaming.jusahost.com:9994/;stream.mp3
+865. #EXTINF:-1,Radio Dardania
+866. http://s2.voscast.com:8824/;stream.mp3
+867. #EXTINF:-1,Radio Atdheu
+868. http://167.114.207.237:9978/;stream.mp3
+869. #EXTINF:-1,Radio Top iliria http://streaming.jusahost.com:9994/;stream.mp3
+870. #EXTINF:-1,Radio Vati
+871. http://radiostream.neotel.mk:8000/;stream.mp3
+872. #EXTINF:-1,Radio Fontana
+873. http://46.4.104.253:8010/;stream.mp3
+874. #EXTINF:-1,Radio Dielli
+875. http://77.92.64.44:8010/;stream.mp3
+876. #EXTINF:-1,Radio Love
+877. http://s2.voscast.com:8828/;stream.mp3
+878. #EXTINF:-1,Top Radio
+879. http://tar.stream.dev.al:9078/;stream.mp3
+880. #EXTINF:-1,Dance Albania
+881. http://192.99.0.170:5232/;stream.mp3
+882. #EXTINF:-1,Radio Marimanga
+883. http://91.82.85.71:9084/;stream.mp3
+884. #EXTINF:-1,Radio Pulla
+885. http://46.4.104.253:9986/;stream.mp3
+886. #EXTINF:-1,Siauliu TV
+887. http://193.8.246.110:8880/play/10095
+888. #EXTINF:-1,SPORT1 LT
+889. http://193.8.246.110:8880/play/10045 
+890. #EXTINF:-1,MDF1 DE
+891. http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+892. #EXTINF:-1,1 DE
+893. http://live-lh.daserste.de/i/daserste_de@91204/index_2692_av-p.m3u8
+894. #EXTINF:-1,BCTV DE
+895. http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+896. #EXTINF:-1,ISAR TV DE
+897. http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
+898. #EXTINF:-1,MDF1 DE
+899. http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+900. #EXTINF:-1,MUENCHEN TV DE
+901. http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/hasbahca.m3u8
+902. #EXTINF:-1,O TV DE
+903. http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
+904. #EXTINF:-1,OKD DE
+905. http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800 906. #EXTINF:-1,test DE
+907. http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
+908. #EXTINF:-1,OK DE
+909. http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
+910. #EXTINF:0,TVR 2 RO
+911. http://178.21.122.94:1935/live/_definst_/tvr2/playlist.m3u8?wowzasessionid=900722108&time=1461946221456
+912. #EXTINF:-1,test RO
+913. http://1tv.ambra.ro
+914. #EXTINF:-1,ALFAOMEGA TV RO
+915. http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
+916. #EXTINF:-1,A1 TV RO
+917. http://89.43.138.29/live/playlist13.m3u8
+918. #EXTINF:-1,BANAT TV RO
+919. http://81.18.66.155:1935/live/banat-tv/playlist.m3u8
+920. #EXTINF:-1,test RO
+921. http://adv-video-cache.distinct.ro/live_playlist/_definst_/casamia/playlist.m3u8
+922. #EXTINF:-1,TV7 RO
+923. http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
+924. #EXTINF:-1,TV DIASPORA RO
+925. http://streamtv.go.ro:1935/tvdiaspora/live/playlist.m3u8 #EXTINF:-1,DIGI 24 RO 
+http://81.196.0.126/digi24edge/digi24hdhqhls/chunklist_w811272067.m3u8
+926. #EXTINF:-1,ISAI TV RO
+927. http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
+928. #EXTINF:-1,test RO
+929. http://s1.streamnet.ro:8006/stream.flv
+930. #EXTINF:-1,TELESHOPPING RO
+931. http://83.166.203.14:1935/ida/ida_1000k.stream/chunklist.m3u8?wowzasessionid=1144202524
+932. #EXTINF:-1,ITV RO
+933. http://s1.streamnet.ro:8014/stream.flv
+934. #EXTINF:-1,KANAL D RO
+935. http://80.86.107.169/iphone/live.m3u8
+936. #EXTINF:-1,test RO
+937. http://webmobile.xdev.ro:81/tv13/playlist.m3u8
+938. #EXTINF:-1,S TV RO
+939. http://s2.streamnet.ro:8035/stream.flv
+940. #EXTINF:-1,test RO
+941. http://rtvflash.smcmobile.ro:8020/rtv.flv
+942. #EXTINF:-1,TELEMOIA RO
+943. http://89.35.208.130
+944. #EXTINF:-1,TELESTAR 1 RO
+945. http://193.34.109.10:8090
+946. #EXTINF:-1,test RO http://83.103.150.198:8080
+947. #EXTINF:-1,test RO
+948. http://streams.iptv.zone/p/71050/c/110/u/4658/KtHe28D1mc7fbqcJqVEmHV2h0ey7rd
+949. #EXTINF:-1,ALFA MEDIA RO
+950. http://188.173.22.231:8080/video/emisie.m3u8
+951. #EXTINF:-1,TV PLUS RO
+952. http://85.186.146.34:8080
+953. #EXTINF:-1,TV SE RO
+954. http://iptv.tvsatrm.ro/livestream/tvse.m3u8
+955. #EXTINF:-1,U TV RO
+956. http://81.196.0.126/utvedge/utvlivehls/chunklist_w1358444381.m3u8
+957. #EXTINF:-1,ALICE RO
+958. http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml
+959. #EXTINF:-1,RTSH 1
+960. http://95.107.132.100/out/u/246_3.m3u8
+961. #EXTINF:-1,RTK1
+962. http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+963. #EXTINF:-1,21
+964. http://95.107.132.100/out/u/228_1.m3u8
+965. #EXTINF:-1,21 MIX
+966. http://5.135.92.130:5749/out/u/343_1.m3u8 
+967. #EXTINF:-1,KTV
+968. http://95.107.132.102/out/u/240_184.m3u8
+969. #EXTINF:-1,KLAN
+970. http://158.69.162.115:3361/out/u/290_3.m3u8
+971. #EXTINF:-1,Rrokum TV
+972. http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8 
+973. #EXTINF:-1,DUKAGJINi TV
+974. http://95.107.132.102/out/u/336_1.m3u8 
+975. #EXTINF:-1,VIZION PLUS
+976. http://95.107.132.100/out/u/412_3.m3u8
+977. #EXTINF:-1,RTK3
+978. http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+979. #EXTINF:-1,RTK4
+980. http://84.22.56.10:1935/rtk4stream/rtk4.stream/chunklist_w1416293160.m3u8 
+981. #EXTINF:-1,SHQIP
+982. http://5.135.92.130:5749/out/u/225_178.m3u8
+983. #EXTINF:-1,FILM NJE
+984. http://95.107.132.218/out/u/135_1.m3u8
+985. #EXTINF:-1,FILM DY
+986. http://95.107.132.218/out/u/151_1.m3u8
+987. #EXTINF:-1,FILM AUTOR
+988. http://95.107.132.218/out/u/191_1.m3u8 
+989. #EXTINF:-1,TRING WORLD
+990. http://95.107.132.100/out/u/299_1.m3u8
+991. #EXTINF:-1,TRING PLANET
+992. http://95.107.132.100/out/u/269_1.m3u8
+993. #EXTINF:-1,LIVING
+994. http://95.107.132.100/out/u/212_3.m3u8
+995. #EXTINF:-1,JOLLY 996. http://95.107.132.100/out/u/231_1.m3u8 
+997. #EXTINF:-1,3+ http://5.135.92.130:5749/out/u/235_182.m3u8
+998. #EXTINF:-1 ,ALB Movie
+999. http://188.138.17.8:1935/albuk/albukplus.stream/playlist.m3u8
+1000. #EXTINF:-1 ,ALBUK
+1001. http://188.138.17.8:1935/albuk/albuk.stream/chunklist_w1458436068.m3u8
+1002. #EXTINF:-1,al usa tv
+1003. http://stream.shqiptv.com:7080/altvusa/index.m3u8
+1004. #EXTINF:-1,RTV ZERI I KOSOVES
+1005. http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
+1006. #EXTINF:-1,Super Sonic Tv
+1007. http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
+1008. #EXTINF:-1,Super TV Folk http://str103.setplex.net:1935/228/stv_folk/playlist.m3u8
+1009. #EXTINF:0,AMOL
+1010. http://46.19.228.174:8001/hd/tracks-v1a1/index.m3u8
+1011. #EXTINF:-1,dielli
+1012. http://stream2.itprishtina.com:90/dielli/index.m3u8
+1013. #EXTINF:-1,Animal Planet
+1014. http://smart-iptv.ro:8880/live/walti/valtiger/501.m3u8
+1015. #EXTINF:-1,Discovery Science
+1016. http://smart-iptv.ro:8880/live/walti/valtiger/499.m3u8
+1017. #EXTINF:-1,Discovery Channel Romania
+1018. http://smart-iptv.ro:8880/live/walti/valtiger/399.m3u8
+1019. #EXTINF:-1,Discovery ID EXTRA
+1020. http://smart-iptv.ro:8880/live/walti/valtiger/420.m3u8
+1021. #EXTINF:-1,NATIONAL GEO WILD
+1022. http://smart-iptv.ro:8880/live/walti/valtiger/33.m3u8
+1023. #EXTINF:-1,NATIONAL GEO
+1024. http://smart-iptv.ro:8880/live/walti/valtiger/34.m3u8
+1025. #EXTINF:-1,DIGI WORLD
+1026. http://smart-iptv.ro:8880/live/walti/valtiger/32.m3u8
+1027. #EXTINF:-1,DIGI ANIMAL WORD
+1028. http://smart-iptv.ro:8880/live/walti/valtiger/394.m3u8
+1029. #EXTINF:-1,VIASAT EXPLORE
+1030. http://smart-iptv.ro:8880/live/walti/valtiger/397.m3u8
+1031. #EXTINF:-1,VIASAT HISTORY
+1032. http://smart-iptv.ro:8880/live/walti/valtiger/395.m3u8
+1033. #EXTINF:-1,VIASAT NATURE
+1034. http://smart-iptv.ro:8880/live/walti/valtiger/396.m3u8
+1035. #EXTINF:-1,MEGAMAX
+1036. http://smart-iptv.ro:8880/live/walti/valtiger/398.m3u8
+1037. #EXTINF:-1,HISTORY CHANNAL
+1038. http://smart-iptv.ro:8880/live/walti/valtiger/35.m3u8
+1039. #EXTINF:-1,BBC EARTH
+1040. http://smart-iptv.ro:8880/live/walti/valtiger/470.m3u8
+1041. #EXTINF:-1,DIGI S 1
+1042. https://pastebin.com/raw/XazjPbd8
+1043. #EXTINF:-1,DIGI S 2
+1044. https://pastebin.com/raw/defdJNW8
+1045. #EXTINF:-1,DIGI SPORT 2
+1046. http://smart-iptv.ro:8880/live/walti/valtiger/12.m3u8
+1047. #EXTINF:-1,DIGI SPORT 3
+1048. http://smart-iptv.ro:8880/live/walti/valtiger/13.m3u8
+1049. #EXTINF:-1,DIGI SPORT 4
+1050. http://smart-iptv.ro:8880/live/walti/valtiger/14.m3u8
+1051. #EXTINF:-1,EUROSPORT
+1052. http://smart-iptv.ro:8880/live/walti/valtiger/29.m3u8
+1053. #EXTINF:-1,EUROSPORT 2
+1054. http://smart-iptv.ro:8880/live/walti/valtiger/30.m3u8
+1055. #EXTINF:-1,A Sport HD
+1056. http://85.132.71.6/turk/aspor/index.m3u8
+1057. #EXTINF:-1,TRING NEWS
+1058. http://95.107.132.100/out/u/287_3.m3u8
+1059. #EXTINF:-1,TRING SPORT 1
+1060. +36http://95.107.132.100/out/u/398_3.m3u8
+1061. #EXTINF:-1,TRING SPORT 2
+1062. http://stream.shqiptv.com:7080/8096/tracks-v1a1/index.m3u8 
+1063. #EXTINF:-1,INtv
+1064. http://80.91.115.211:1935/live/livestream/playlist.m3u8 #EXTINF:-1,LIVING
+1065. http://95.107.132.100/out/u/212_3.m3u8
+1066. #EXTINF:-1,StarplusAl
+1067. http://163.172.102.117/StarplusAl/tracks-v1a1/index.m3u8
+1068. #EXTINF:-1,channelone
+1069. http://81.7.13.162/hls/channelone/index.m3u8 
+1070. #EXTINF:-1,TV Jug
+1071. http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
+1072. #EXTINF:-1,rozafashkoder
+1073. http://xrozafashkoder1x.api.channel.livestream.com/3.0/playlist.m3u8
+1074. #EXTINF:-1,tvr
+1075. http://stream1.megaiptv.info/tvrPr/playlist.m3u8
+1076. #EXTINF:0,APOLLON TV http://185.80.224.14:554/live/rtmp.stream/playlist.m3u8 
+1077. #EXTINF:-1,Wedding Channel AL
+1078. http://wedding-channel.tv/stream.m3u8
+1079. #EXTINF:-1,A1 report
+1080. http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+1081. #EXTINF:0,ORA NEWS
+1082. http://109.236.81.91/hls/oranews/index.m3u8 
+1083. #EXTINF:-1,NEWS 24
+1084. http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+1085. #EXTINF:-1,ALB Muzic LIVE http://188.138.17.8:1935/albuk/albmus.stream/playlist.m3u8
+1086. ##EXTINF:-1 ,ALB Movie 1087. http://188.138.17.8:1935/albuk/albukplus.stream/playlist.m3u8
+1088. #EXTINF:-1 ,ALBUK
+1089. http://188.138.17.8:1935/albuk/albuk.stream/chunklist_w1458436068.m3u8
+1090. #EXTINF:-1,dasma tv
+1091. http://91.187.117.230:8080
+1092. #EXTINF:-1,TRING TRING
+1093. http://95.107.132.100/out/u/260_1.m3u8
+1094. #EXTINF:0,RTRS
+1095. http://smarttv.tvviet.tv/live82/RTRS.m3u8
+1096. #EXTINF:0,RTS 1
+1097. http://smarttv.tvviet.tv/live72/RTS1.m3u8
+1098. #EXTINF:0,RTS 2
+1099. http://smarttv.tvviet.tv/live92/RTS2.m3u8
+1100. #EXTINF:0,RTS HD
+1101. http://smarttv.tvviet.tv/live12/RTSHD.m3u8
+1102. #EXTINF:-1,MK MUSIC
+1103. http://141.136.14.18/kanal1/kanal1.m3u8
+1104. #EXTINF:0,BH
+1105. http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
+1106. #EXTINF:-1,BOSNA TV1
+1107. http://de2-2.nettvplus.com:8080/stream/?channel=promotvsi3btv&stream=1mb&sp=nettvplus?u=
+1108. #EXTINF:-1, SKY Folk
+1109. http://skyfolk.mk/live.m3u8
+1110. #EXTINF:-1,JATA TV
+1111. http://109.175.31.2:8525
+1112. #EXTINF:-1,Plus Tv Mk
+1113. http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+1114. #EXTINF:-1,MLAVA
+1115. http://109.72.63.194:5900
+1116. #EXTINF:-1,KCN 1
+1117. http://212.200.102.3:5000/rtp/239.0.0.1:5000
+1118. #EXTINF:-1,KCN 2
+1119. http://212.200.102.3:5000/rtp/239.0.0.2:5000
+1120. #EXTINF:-1,KCN 3
+1121. http://212.200.102.3:5000/rtp/239.0.0.3:5000 
+1122. #EXTINF:-1,M2O TV
+1123. http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+1124. #EXTINF:-1,CITY
+1125. http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/chunklist_w377062489.m3u8
+1126. #EXTINF:-1,NRJ HITS http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8 
+1127. #EXTINF:-1,HEART TV
+1128. http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+1129. #EXTINF:-1,Capital TV http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
+sd=10&rebase=on
+1130. #EXTINF:-1,IT-RTL 102.5
+1131. http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8 #EXTINF:-1,BBC
+WORLD NEWS http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+1132. #EXTINF:-1,DW
+1133. http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
+1134. #EXTINF:-1, Sky News
+1135. http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+1136. #EXTINF:-1,abcnews
+1137. http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+1138. #EXTINF:-1,france24
+1139. http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
+1140. #EXTINF:-1,Insight HD
+1141. http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
+1142. #EXTINF:0,Eurosport 1 HD
+1143. http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+1144. #EXTINF:-1,ALL Sports
+1145. http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+1146. #EXTINF:0,pac 12
+1147. http://xrxs.net/video/live-p12netw-2328.m3u8
+1148. #EXTINF:-1,ID Fashion HD
+1149. http://95.67.8.22/hls/idfashion/index.m3u8
+1150. #EXTINF:-1,HD Media 3D
+1151. http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8 
+1152. #EXTINF:-1,TV5
+1153. MONDE https://api-asia.tv5monde.com/Live/250600/4792245510001-5/tv5plusinfo/master.m3u8
+1154. #EXTINF:-1,Nasa tv
+1155. https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
+1156. XTINF:0,TRT 1 HD
+1157. http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+1158. #EXTINF:0,TRT HABER HD
+1159. http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+1160. #EXTINF:0,TRT OKUL
+1161. http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
+1162. #EXTINF:0,TRT TüRK
+1163. http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+1164. #EXTINF:0,TRT BELGESEL HD
+1165. http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?sd=10&rebase=on&hdntl=
+1166. #EXTINF:0,TRT AVAZ
+1167. http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+1168. #EXTINF:0,TRT MüZIK
+1169. http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+1170. #EXTINF:0,TRT ARAPçA
+1171. http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+1172. #EXTINF:0,TRT DIYANET
+1173. http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+1174. #EXTINF:0,TRT KURDI
+1175. http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8 1176. #EXTINF:0,CNNTüRK
+1177. http://live.netd.com.tr/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+1178. #EXTINF:0,TRT ÇOCUK
+1179. http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+1180. #EXTINF:0,KANAL D
+1181. http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+1182. #EXTINF:-1,KANALD HD
+1183. http://37.48.83.10/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+1184. #EXTINF:0,SHOW MAX
+1185. http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
+1186. #EXTINF:0,TV 2
+1187. http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+1188. #EXTINF:0,CNN TüRK
+1189. http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/index.m3u8
+1190. #EXTINF:0,DREAM TV
+1191. http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/index.m3u8
+1192. #EXTINF:0,DREAM TüRK
+1193. http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/index.m3u8
+1194. #EXTINF:0,KANAL 7
+1195. http://livetr.gostream.nl/kanal7hq/kanal7hq/master.m3u8
+1196. #EXTINF:0,ÜLKE TV
+1197. http://livetr.gostream.nl/ulketvhq/ulketvhq/master.m3u8
+1198. #EXTINF:0,SEMERKAND
+1199. http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
+1200. #EXTINF:0,TV 4
+1201. http://mn-l.mncdn.com:1935/r_karamel/karamel/master.m3u8
+1202. #EXTINF:0,NRT2
+1203. http://nrttv.iptv-playoutcenter.de:1935/nrt2/nrt2.stream_1/master.m3u8
+1204. #EXTINF:0,BLOOMBERG HT
+1205. http://mn-l.mncdn.com/bloomberght/bloomberght2/index.m3u8
+1206. #EXTINF:0,24
+1207. http://mn-l.mncdn.com/kanal24/kanal243/chunklist_w1542967589.m3u8
+1208. #EXTINF:0,TVNET
+1209. http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b850000.m3u8
+1210. #EXTINF:0,BENGüTüRK TV
+1211. http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8?wowzasessionid=379483538
+1212. #EXTINF:0,BRT HD
+1213. http://wms.brtk.net/live/BRTHD/playlist.m3u8
+1214. #EXTINF:0,TRT ÇOCUK
+1215. http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+1216. #EXTINF:0,SEMERKAND HD
+1217. http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
+1218. #EXTINF:0,BEYAZ TV
+1219. http://37.77.2.234:1935/beyaz/live/playlist.m3u8
+1220. #EXTINF:0,POWER HD
+1221. http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
+1222. #EXTINF:0,POWERTüRK HD
+1223. http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/playlist.m3u8
+1224. #EXTINF:0,DREAM
+1225. http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+1226. #EXTINF:0,DREAMTüRK
+1227. http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+1228. #EXTINF:0,NUMBER ONE
+1229. http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
+1230. #EXTINF:0,NUMBER ONE TüRK
+1231. http://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp/playlist.m3u8
+1232. #EXTINF:0,BELGESEL TV
+1233. http://188.165.239.200:7088/
+1234. #EXTINF:0,TGRT BELGESEL
+1235. http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+1236. #EXTINF:0,SPORTS TV
+1237. rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+1238. #EXTINF:0,BURSASPOR TV
+1239. http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
+1240. #EXTINF:0,FANATIK TV
+1241. rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
+1242. #EXTINF:0,UCANKUS TV
+1243. http://37.77.31.3:1935/ucak/live/playlist.m3u8
+1244. #EXTINF:0,ÇAY TV
+1245. http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+1246. #EXTINF:0,PLANET PEMBE
+1247. rtmp://77.223.146.117/live/planetp
+1248. #EXTINF:0,PLANET TüRK
+1249. rtmp://77.223.146.117/live/planett
+1250. #EXTINF:0,KANAL A
+1251. http://stream.n3.noc.com.tr/kanala/kanala/chunklist_w1082384770.m3u8
+1252. #EXTINF:0,AKSU TV
+1253. http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
+1254. #EXTINF:0,KAPADOKYA TV
+1255. http://yayin3.canlitv.com:1935/live/kapadokyatv/HasBahCa.m3u8
+1256. #EXTINF:0,rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
+1257. #EXTINF:0,DOST TV
+1258. http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
+1259. #EXTINF:0,BEREKET TV
+1260. http://berekettv.mediatriple.net/berekettv/berekethayvan.smil/Playlist.m3u8
+1261. #EXTINF:0,WORLD TRAVEL CHANNEL
+1262. rtmp://stream.taksimbilisim.com:1935/wtc/bant1
+1263. #EXTINF:0,VUSLAT TV
+1264. http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
+1265. #EXTINF:0,KANAL V
+1266. rtmp://stream2.taksimbilisim.com/kanalvip/bant1 1267. #EXTINF:0,Urtmp://stream2.taksimbilisim.com/egemtv/bant1
+1268. #EXTINF:0,UFUK TV
+1269. http://yayin3.canlitv.com:1935/live/ufuktv/playlist.m3u8
+1270. #EXTINF:0,TV KAYSERI
+1271. rtmp://yayin3.canliyayin.org/tvkayseri/tvkayseri
+1272. #EXTINF:0,TV 2000
+1273. rtmp://stream.taksimbilisim.com/tv2000/bant1
+1274. #EXTINF:0,TV52
+1275. rtmp://stream.taksimbilisim.com/tv52/bant1
+1276. #EXTINF:0,TV41
+1277. rtmp://stream.taksimbilisim.com/tv41/bant1
+1278. #EXTINF:0,TV10
+1279. rtmp://5.135.142.60:1935/tv10/xetero
+1280. #EXTINF:0,TARSUS GüNEY TV
+1281. rtmp://stream.taksimbilisim.com:1935/tarsusguneytv/bant1
+1282. #EXTINF:0,TARhttp://yayin3.canlitv.com:1935/live/tarimturktv/playlist.m3u8
+1283. #EXTINF:0,MERSIN SUN TV
+1284. rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
+1285. #EXTINF:0,TRT 1 TR
+1286. http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_900_av-b.m3u8?sd=10&rebase=on
+1287. #EXTINF:0,TRT HABER TR
+1288. http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_900_av-b.m3u8?sd=10&rebase=on
+1289. #EXTINF:0,TRT AVAZ TR
+1290. http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_700_av-p.m3u8?sd=10&rebase=on
+1291. #EXTINF:0,TRT COCUK TR
+1292. http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_600_av-b.m3u8?sd=10&rebase=on
+1293. #EXTINF:0,TRT BELGESEL TR
+1294. http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_900_av-p.m3u8?sd=10&rebase=on
+1295. #EXTINF:0,TRT MUZIK TR
+1296. http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_700_av-p.m3u8?sd=10&rebase=on
+1297. #EXTINF:0,TRT WORLD TR
+1298. http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_900_av-b.m3u8?sd=10&rebase=on #
+1299. #EXTINF:-1,300 Rise Of An Empire
+1300. http://www.deadlyblogger.com/NewRelease/300rise.mp4
+1301. #EXTINF:-1,After Earth
+1302. http://www.deadlyblogger.com/NewRelease/after.mp4
+1303. #EXTINF:-1,Ali
+1304. http://www.deadlyblogger.com/NewRelease/ali1.mp4
+1305. #EXTINF:-1,Turbo
+1306. http://www.deadlyblogger.com/NewRelease/turbo.mp4 
+1307. #EXTINF:-1,The Hobbit The Desolation Of Smaug
+1308. http://www.deadlyblogger.com/NewRelease/smaug2013.
+1309. #EXTINF:0,radio 21 DE https://api.new.livestream.com/accounts/22300508/events/6675945/broadcasts/156666441.secure.m3u8
+1310. #EXTINF:0,tribuna
+1311. http://cm.hostlagarto.com:8081/TRIBUNA-TV/tribuna.myStream/playlist.m3u8
+1312. #EXTINF:0,rmtv es
+1313. http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+1314. #EXTINF:0,lasexta es
+1315. http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-p.m3u8
+1316. #EXTINF:0,AXN_HD_1 PL
+1317. https://n-4-16.dcs.redcdn.pl/hls/o2/redefine/nlive/AXN_HD_1/1938/0/tv-ss/live.isml/playlist.m3u8
+1318. #EXTINF:0,Videolina
+1319. http://178.33.229.111:1935/live/Videolina/chunklist_w562060318.m3u8
+1320. #EXTINF:0,raimovie
+1321. http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
+1322. #EXTINF:0,tg24
+1323. http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+1324. #EXTINF:0,rai5
+1325. http://originstream12.rai.it:1935/live/smil:rai5.smil/chunklist_b1200000.m3u8
+1326. #EXTINF:0,Paramount Channel
+1327. http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
+1328. #EXTINF:0,raipremium
+1329. http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8 
+1330. #EXTINF:-1,Radio
+1331. kosova1 http://82.114.72.2:8088/;stream.mp3
+1332. #EXTINF:-1,Radio kosova2
+1333. http://82.114.72.2:8098/;stream.mp3
+1334. #EXTINF:-1,Radio Tiana
+1335. http://37.59.32.115:5160/;stream.mp3
+1336. #EXTINF:-1,Radio Tiana2
+1337. http://37.59.32.115:5162/;stream.mp3
+1338. #EXTINF:-1,Radio Tirana Internacional
+1339. http://37.59.32.115:5164/;stream.mp3
+1340. #EXTINF:-1,Radio kosova e lire
+1341. http://188.165.192.5:8018/;stream.mp3
+1342. #EXTINF:-1,Radio Gjakova
+1343. http://37.26.69.30:8080/;stream.mp3
+1344. #EXTINF:-1,Radio Llapi
+1345. http://5.189.158.54:8555/;stream.mp3
+1346. #EXTINF:-1,Radio Dukagjini
+1347. http://s6.voscast.com:8824/;stream.mp3
+1348. #EXTINF:-1,Radio lushnja
+1349. http://74.221.215.47:8000/;stream.mp3
+1350. #EXTINF:-1,Radio Kumanova
+1351. http://5.39.82.219:10030/;stream.mp3
+1352. #EXTINF:-1,Radio Deqani
+1353. http://streaming.jusahost.com:9994/;stream.mp3
+1354. #EXTINF:-1,Radio Dardania
+1355. http://s2.voscast.com:8824/;stream.mp3
+1356. #EXTINF:-1,Radio Atdheu
+1357. http://167.114.207.237:9978/;stream.mp3 1358. #EXTINF:-1,Radio Top iliria http://streaming.jusahost.com:9994/;stream.mp3
+1359. #EXTINF:-1,Radio Vati
+1360. http://radiostream.neotel.mk:8000/;stream.mp3
+1361. #EXTINF:-1,Radio Fontana
+1362. http://46.4.104.253:8010/;stream.mp3
+1363. #EXTINF:-1,Radio Dielli
+1364. http://77.92.64.44:8010/;stream.mp3
+1365. #EXTINF:-1,Radio Love
+1366. http://s2.voscast.com:8828/;stream.mp3
+1367. #EXTINF:-1,Top Radio
+1368. http://tar.stream.dev.al:9078/;stream.mp3
+1369. #EXTINF:-1,Dance Albania
+1370. http://192.99.0.170:5232/;stream.mp3
+1371. #EXTINF:-1,Radio Marimanga
+1372. http://91.82.85.71:9084/;stream.mp3
+1373. #EXTINF:-1,Radio Pulla
+1374. http://46.4.104.253:9986/;stream.mp3
+1375. #EXTINF:-1,Siauliu TV
+1376. http://193.8.246.110:8880/play/10095
+1377. #EXTINF:-1,SPORT1 LT
+1378. http://193.8.246.110:8880/play/10045 
+1379. #EXTINF:-1,MDF1 DE
+1380. http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+1381. #EXTINF:-1,1 DE
+1382. http://live-lh.daserste.de/i/daserste_de@91204/index_2692_av-p.m3u8
+1383. #EXTINF:-1,BCTV DE
+1384. http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+1385. #EXTINF:-1,ISAR TV DE
+1386. http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
+1387. #EXTINF:-1,MDF1 DE
+1388. http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+1389. #EXTINF:-1,MUENCHEN TV DE
+1390. http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/hasbahca.m3u8
+1391. #EXTINF:-1,O TV DE
+1392. http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
+1393. #EXTINF:-1,OKD DE
+1394. http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
+1395. #EXTINF:-1,test DE
+1396. http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
+1397. #EXTINF:-1,OK DE
+1398. http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
+1399. #EXTINF:0,TVR 2 RO
+1400. http://178.21.122.94:1935/live/_definst_/tvr2/playlist.m3u8?wowzasessionid=900722108&time=1461946221456
+1401. #EXTINF:-1,test RO
+1402. http://1tv.ambra.ro
+1403. #EXTINF:-1,ALFAOMEGA TV RO
+1404. http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
+1405. #EXTINF:-1,A1 TV RO
+1406. http://89.43.138.29/live/playlist13.m3u8
+1407. #EXTINF:-1,BANAT TV RO
+1408. http://81.18.66.155:1935/live/banat-tv/playlist.m3u8
+1409. #EXTINF:-1,test RO
+1410. http://adv-video-cache.distinct.ro/live_playlist/_definst_/casamia/playlist.m3u8
+1411. #EXTINF:-1,TV7 RO
+1412. http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
+1413. #EXTINF:-1,TV DIASPORA RO
+1414. http://streamtv.go.ro:1935/tvdiaspora/live/playlist.m3u8 #EXTINF:-1,DIGI 24 RO 
+http://81.196.0.126/digi24edge/digi24hdhqhls/chunklist_w811272067.m3u8
+1415. #EXTINF:-1,ISAI TV RO
+1416. http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
+1417. #EXTINF:-1,test RO
+1418. http://s1.streamnet.ro:8006/stream.flv
+1419. #EXTINF:-1,TELESHOPPING RO
+1420. http://83.166.203.14:1935/ida/ida_1000k.stream/chunklist.m3u8?wowzasessionid=1144202524
+1421. #EXTINF:-1,ITV RO
+1422. http://s1.streamnet.ro:8014/stream.flv
+1423. #EXTINF:-1,KANAL D RO
+1424. http://80.86.107.169/iphone/live.m3u8
+1425. #EXTINF:-1,test RO
+1426. http://webmobile.xdev.ro:81/tv13/playlist.m3u8
+1427. #EXTINF:-1,S TV RO
+1428. http://s2.streamnet.ro:8035/stream.flv
+1429. #EXTINF:-1,test RO
+1430. http://rtvflash.smcmobile.ro:8020/rtv.flv
+1431. #EXTINF:-1,TELEMOIA RO
+1432. http://89.35.208.130
+1433. #EXTINF:-1,TELESTAR 1 RO
+1434. http://193.34.109.10:8090
+1435. #EXTINF:-1,test RO http://83.103.150.198:8080
+1436. #EXTINF:-1,test RO
+1437. http://streams.iptv.zone/p/71050/c/110/u/4658/KtHe28D1mc7fbqcJqVEmHV2h0ey7rd
+1438. #EXTINF:-1,ALFA MEDIA RO
+1439. http://188.173.22.231:8080/video/emisie.m3u8
+1440. #EXTINF:-1,TV PLUS RO
+1441. http://85.186.146.34:8080
+1442. #EXTINF:-1,TV SE RO
+1443. http://iptv.tvsatrm.ro/livestream/tvse.m3u8
+1444. #EXTINF:-1,U TV RO
+1445. http://81.196.0.126/utvedge/utvlivehls/chunklist_w1358444381.m3u8
+1446. #EXTINF:-1,ALICE RO
+1447. http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml 1448. #EXTINF:-1,Abu Dabi Sport 1
+1449. http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+1450. #EXTINF:-1,Abu Dabi Sport 2
+1451. http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+1452. #EXTINF:-1 ,IPI 10
+1453. http://uk3.zecast.com:1935/star-live/starsp2/playlist.m3u8
+1454. #EXTINF:-1,UK SKY MIX
+1455. http://yopitv.tv:25461/live/LOCALOCA4635291/LOCALOCA4635291/63.m3u8
+1456. #EXTINF:-1,TJK TV
+1457. http://tjktv.ercdn.net/tjktv_576p.m3u8
+1458. #EXTINF:-1 ,TRT SPORT
+1459. http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+1460. #EXTINF:-1,Eurosport
+1461. http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+1462. #EXTINF:-1,Eurosport 1 EN
+1463. http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+1464. #EXTINF:-1,BAIEN
+1465. http://149.202.208.85:8080/mystreambhenssp-1/Strm/index.m3u8
+1466. #EXTINF:-1,Abu Dabi Sport 1
+1467. http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+1468. #EXTINF:-1,Abu Dabi Sport 2
+1469. http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+1470. #EXTINF:-1 ,IPI 10
+1471. http://uk3.zecast.com:1935/star-live/starsp2/playlist.m3u8
+1472. #EXTINF:-1,UK SKY MIX
+1473. http://yopitv.tv:25461/live/LOCALOCA4635291/LOCALOCA4635291/63.m3u8
+1474. #EXTINF:-1,TJK TV
+1475. http://tjktv.ercdn.net/tjktv_576p.m3u8
+1476. #EXTINF:-1 ,TRT SPORT
+1477. http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#EXTINF:-1,RTSH 1
+http://95.107.132.100/out/u/246_3.m3u8
+#EXTINF:-1,RTK1
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:-1,21
+http://95.107.132.100/out/u/228_1.m3u8
+#EXTINF:-1,21 MIX
+http://5.135.92.130:5749/out/u/343_1.m3u8 
+#EXTINF:-1,KTV
+http://95.107.132.102/out/u/240_184.m3u8 
+#EXTINF:-1,TRIBUNA 
+http://stream.shqiptv.com:7080/8091/tracks-v1a1/index.m3u8 
+#EXTINF:-1,klankosova 
+http://stream2.itprishtina.com:90/klanks/index.m3u8
+#EXTINF:-1,ALSAT MAQEDONIS 
+http://stream.shqiptv.com:7080/8013/index.m3u8
+ #EXTINF:-1,MPT2
+http://stream.shqiptv.com:7080/8028/tracks-v1a1/index.m3u8
+#EXTINF:-1,arta (ktv)
+http://stream.shqiptv.com:7080/8045/tracks-v1a1/index.m3u8
+#EXTINF:-1,BESA
+http://163.172.102.117:8080/BESATV/index.m3u8
+#EXTINF:-1,TemaTV
+http://edge02eu.ekranet.com/tematv_234p/index.m3u8?
+e=b7edc5f8b26df09b329b99f7e7cb9a8e&c=tematv
+#EXTINF:-1,KLAN
+http://158.69.162.115:3361/out/u/290_3.m3u8 #EXTINF:-1,Rrokum TV
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8 
+#EXTINF:-1,DUKAGJINi TV
+http://95.107.132.102/out/u/336_1.m3u8 
+#EXTINF:-1,VIZION PLUS
+http://95.107.132.100/out/u/412_3.m3u8
+#EXTINF:-1,KOHA TV 
+rtmp://live.tvkoha.tv/live/koha/livestream
+#EXTINF:-1,RTK3
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:-1,RTK4
+http://84.22.56.10:1935/rtk4stream/rtk4.stream/chunklist_w1416293160.m3u8 
+#EXTINF:-1,SHQIP
+http://5.135.92.130:5749/out/u/225_178.m3u8
+#EXTINF:-1,FILM NJE
+http://95.107.132.218/out/u/135_1.m3u8
+#EXTINF:-1,FILM DY
+http://95.107.132.218/out/u/151_1.m3u8
+#EXTINF:-1,FILM HITS 
+http://158.69.162.115:3361/out/u/26_5.m3u8 
+#EXTINF:-1,FILM AUTOR
+http://95.107.132.218/out/u/191_1.m3u8
+#EXTINF:-1,FILM DRAMA 
+http://95.107.132.218/out/u/99_5.m3u8 
+#EXTINF:-1,TRING ACTION 
+http://5.135.92.130:5749/out/u/220_175.m3u8 
+#EXTINF:-1,TRING SUPER 
+http://5.135.92.130:5749/out/u/214_173.m3u8
+#EXTINF:-1,TRING LIFE 
+http://5.135.92.130:5749/out/u/231_180.m3u8 
+#EXTINF:-1,TIP 
+http://95.107.132.100/out/u/263_1.m3u8 
+#EXTINF:-1,TRING WORLD
+http://95.107.132.100/out/u/299_1.m3u8
+#EXTINF:-1,TRING PLANET
+http://95.107.132.100/out/u/269_1.m3u8
+#EXTINF:-1,LIVING
+http://95.107.132.100/out/u/212_3.m3u8
+#EXTINF:-1,JOLLY
+http://95.107.132.100/out/u/231_1.m3u8 
+#EXTINF:-1,3+ http://5.135.92.130:5749/out/u/235_182.m3u8
+#EXTINF:-1 ,ALB Movie
+http://188.138.17.8:1935/albuk/albukplus.stream/playlist.m3u8
+#EXTINF:-1 ,ALBUK
+http://188.138.17.8:1935/albuk/albuk.stream/chunklist_w1458436068.m3u8
+#EXTINF:-1,al usa tv http://stream.shqiptv.com:7080/altvusa/index.m3u8
+#EXTINF:-1,RTV ZERI I KOSOVES
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
+#EXTINF:-1,Super Sonic Tv
+http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
+#EXTINF:-1,Super TV Folk 
+http://str103.setplex.net:1935/228/stv_folk/playlist.m3u8
+#EXTINF:0,AMOL
+http://46.19.228.174:8001/hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,dielli
+http://stream2.itprishtina.com:90/dielli/index.m3u8#EXTINF:-1,Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:0,Russia Today Documentary
+http://rt.ashttp6.visionip.tv/live/RT_Doc-SD/playlist.m3u8
+#EXTINF:-1, fine living
+http://69.39.239.166:5000/live/543/543.m3u8
+#EXTINF:-1,History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8 
+#EXTINF:-1,Animal Planet
+http://smart-iptv.ro:8880/live/walti/valtiger/501.m3u8
+EXTINF:-1,BT Sport 1
+http://185.53.163.205:2700
+#EXTINF:-1,BT Sport 2 
+http://185.53.163.205:2506
+#EXTINF:-1,BT Sport 3 
+http://185.53.163.205:2701
+#EXTINF:-1,BT Sport ESPN 
+http://185.53.163.205:2507
+#EXTINF:-1,BT Sport Extra 1 
+http://185.53.163.205:2707
+#EXTINF:-1,BT Sport Extra 2 
+http://185.53.163.205:2500
+#EXTINF:-1,BT Sport Extra 3 
+http://185.53.163.205:2501
+#EXTINF:-1,BT Sport Extra 4 
+http://185.53.163.205:2502
+#EXTINF:-1,BT Sport Extra 5 
+http://185.53.163.205:2503
+#EXTINF:-1,BT Sport Extra 6 
+http://185.53.163.205:2504
+#EXTINF:-1,CHELSSA TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+#EXTINF:0,1 Partizan
+http://212.200.102.3:5000/udp/239.99.99.99:23999
+#EXTINF:0,SK4
+http://smarttv.tvviet.tv/live82/SK4.m3u8 #EXTINF:0,SK5
+http://smarttv.tvviet.tv/live82/SK5.m3u8
+#EXTINF:0,SK6
+http://smarttv.tvviet.tv/live82/SK6.m3u8
+#EXTINF:-1 ,SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 ,SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,DIGI SPORT 2
+http://smart-iptv.ro:8880/live/walti/valtiger/12.m3u8
+#EXTINF:-1,DIGI SPORT 3
+http://smart-iptv.ro:8880/live/walti/valtiger/13.m3u8
+#EXTINF:-1,DIGI SPORT 4
+http://smart-iptv.ro:8880/live/walti/valtiger/14.m3u8
+#EXTINF:-1,EUROSPORT
+http://smart-iptv.ro:8880/live/walti/valtiger/29.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://smart-iptv.ro:8880/live/walti/valtiger/30.m3u8
+#EXTINF:-1,A Sport HD
+http://85.132.71.6/turk/aspor/index.m3u8
+#EXTINF:-1,TRING NEWS
+http://95.107.132.100/out/u/287_3.m3u8
+#EXTINF:-1,TRING SPORT 1
++36http://95.107.132.100/out/u/398_3.m3u8
+#EXTINF:-1,TRING SPORT 2
+http://stream.shqiptv.com:7080/8096/tracks-v1a1/index.m3u8 
+#EXTINF:-1,INtv
+http://80.91.115.211:1935/live/livestream/playlist.m3u8 #EXTINF:-1,LIVING
+http://95.107.132.100/out/u/212_3.m3u8
+#EXTINF:-1,StarplusAl
+ http://163.172.102.117/StarplusAl/tracks-v1a1/index.m3u8
+#EXTINF:-1,channelone
+http://81.7.13.162/hls/channelone/index.m3u8 
+#EXTINF:-1,TV Jug
+http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
+#EXTINF:-1,rozafashkoder
+http://xrozafashkoder1x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,tvr
+http://stream1.megaiptv.info/tvrPr/playlist.m3u8
+#EXTINF:0,APOLLON TV http://185.80.224.14:554/live/rtmp.stream/playlist.m3u8 
+#EXTINF:-1,Wedding Channel AL
+http://wedding-channel.tv/stream.m3u8
+#EXTINF:-1,A1 report
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:0,ORA NEWS
+http://109.236.81.91/hls/oranews/index.m3u8 #EXTINF:-1,NEWS 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1,ALB Muzic LIVE 
+http://188.138.17.8:1935/albuk/albmus.stream/playlist.m3u8
+##EXTINF:-1 ,ALB Movie
+http://188.138.17.8:1935/albuk/albukplus.stream/playlist.m3u8
+#EXTINF:-1 ,ALBUK
+http://188.138.17.8:1935/albuk/albuk.stream/chunklist_w1458436068.m3u8
+#EXTINF:-1,dasma tv
+http://91.187.117.230:8080
+#EXTINF:-1,TRING TRING
+http://95.107.132.100/out/u/260_1.m3u8
+#EXTINF:0,RTRS
+http://smarttv.tvviet.tv/live82/RTRS.m3u8
+#EXTINF:0,RTS 1
+http://smarttv.tvviet.tv/live72/RTS1.m3u8
+#EXTINF:0,RTS 2
+http://smarttv.tvviet.tv/live92/RTS2.m3u8
+#EXTINF:0,RTS HD
+http://smarttv.tvviet.tv/live12/RTSHD.m3u8
+#EXTINF:-1,MK MUSIC
+http://141.136.14.18/kanal1/kanal1.m3u8
+#EXTINF:0,BH
+http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
+#EXTINF:-1,BOSNA TV1
+http://de2-2.nettvplus.com:8080/stream/?
+channel=promotvsi3btv&stream=1mb&sp=nettvplus?u=
+#EXTINF:-1, SKY Folk
+http://skyfolk.mk/live.m3u8
+#EXTINF:-1,JATA TV
+http://109.175.31.2:8525
+#EXTINF:-1,Plus Tv Mk
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1,MLAVA
+http://109.72.63.194:5900
+#EXTINF:-1,KCN 1
+http://212.200.102.3:5000/rtp/239.0.0.1:5000
+#EXTINF:-1,KCN 2
+http://212.200.102.3:5000/rtp/239.0.0.2:5000
+#EXTINF:-1,KCN 3
+http://212.200.102.3:5000/rtp/239.0.0.3:5000 
+#EXTINF:-1,M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
+sd=10&rebase=on
+#EXTINF:-1,CITY http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/chunklist_w377
+062489.m3u8
+#EXTINF:-1,NRJ HITS 
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8 
+#EXTINF:-1,HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1,Capital TV http://ooyalahd2-
+f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
+sd=10&rebase=on
+#EXTINF:-1,IT-RTL 102.5
+http://origin-rtl-radio-stream.4mecloud.it/live-
+video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8 #EXTINF:-1,BBC WORLD 
+NEWS http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1,DW
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?
+sd=10&rebase=on
+#EXTINF:-1, Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1,abcnews
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?
+sd=10&b=1200&rebase=on
+#EXTINF:-1,france24
+http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
+#EXTINF:-1,Insight HD
+http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
+#EXTINF:0,Eurosport 1 HD
+http://esioslive6-
+i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1,ALL Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:0,pac 12
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1,ID Fashion HD
+http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:-1,HD Media 3D
+http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8 
+#EXTINF:-1,TV5
+MONDE https://api-asia.tv5monde.com/Live/250600/4792245510001-
+5/tv5plusinfo/master.m3u8
+#EXTINF:-1,Nasa tv
+https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
+XTINF:0,TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:0,TRT HABER HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:0,TRT OKUL http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
+#EXTINF:0,TRT TüRK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:0,TRT BELGESEL HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?
+sd=10&rebase=on&hdntl=
+#EXTINF:0,TRT AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:0,TRT MüZIK
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:0,TRT ARAPçA
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:0,TRT DIYANET
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+#EXTINF:0,TRT KURDI
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:0,CNNTüRK
+http://live.netd.com.tr/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:0,TRT ÇOCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:0,KANAL D
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1,KANALD HD
+http://37.48.83.10/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:0,SHOW MAX
+http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
+#EXTINF:0,TV 2
+http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+#EXTINF:0,CNN TüRK
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/index.m3u8
+#EXTINF:0,DREAM TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/index.m3u8
+#EXTINF:0,DREAM TüRK
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/index.m3u8
+#EXTINF:0,KANAL 7
+http://livetr.gostream.nl/kanal7hq/kanal7hq/master.m3u8
+#EXTINF:0,ÜLKE TV
+http://livetr.gostream.nl/ulketvhq/ulketvhq/master.m3u8
+#EXTINF:0,SEMERKAND
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
+#EXTINF:0,TV 4
+http://mn-l.mncdn.com:1935/r_karamel/karamel/master.m3u8
+#EXTINF:0,NRT2
+http://nrttv.iptv-playoutcenter.de:1935/nrt2/nrt2.stream_1/master.m3u8
+#EXTINF:0,BLOOMBERG HT
+http://mn-l.mncdn.com/bloomberght/bloomberght2/index.m3u8 #EXTINF:0,24
+http://mn-l.mncdn.com/kanal24/kanal243/chunklist_w1542967589.m3u8
+#EXTINF:0,TVNET
+http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b850000.m3u8
+#EXTINF:0,BENGüTüRK TV
+http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8?
+wowzasessionid=379483538
+#EXTINF:0,BRT HD
+http://wms.brtk.net/live/BRTHD/playlist.m3u8
+#EXTINF:0,TRT ÇOCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:0,SEMERKAND HD
+http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
+#EXTINF:0,BEYAZ TV
+http://37.77.2.234:1935/beyaz/live/playlist.m3u8
+#EXTINF:0,POWER HD
+http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
+#EXTINF:0,POWERTüRK HD
+http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/playlist.m3u8
+#EXTINF:0,DREAM
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0,DREAMTüRK
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:0,NUMBER ONE
+http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
+#EXTINF:0,NUMBER ONE TüRK
+http://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp/playlist.m3u8
+#EXTINF:0,BELGESEL TV
+http://188.165.239.200:7088/
+#EXTINF:0,TGRT BELGESEL
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+#EXTINF:0,SPORTS TV
+rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+#EXTINF:0,BURSASPOR TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
+#EXTINF:0,FANATIK TV
+rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
+#EXTINF:0,UCANKUS TV
+http://37.77.31.3:1935/ucak/live/playlist.m3u8
+#EXTINF:0,ÇAY TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:0,PLANET PEMBE
+rtmp://77.223.146.117/live/planetp
+#EXTINF:0,PLANET TüRK
+rtmp://77.223.146.117/live/planett
+#EXTINF:0,KANAL A http://stream.n3.noc.com.tr/kanala/kanala/chunklist_w1082384770.m3u8
+#EXTINF:0,AKSU TV
+http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
+#EXTINF:0,KAPADOKYA TV
+http://yayin3.canlitv.com:1935/live/kapadokyatv/HasBahCa.m3u8
+#EXTINF:0,rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
+#EXTINF:0,DOST TV
+http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
+#EXTINF:0,BEREKET TV
+http://berekettv.mediatriple.net/berekettv/berekethayvan.smil/Playlist.m3u8
+#EXTINF:0,WORLD TRAVEL CHANNEL
+rtmp://stream.taksimbilisim.com:1935/wtc/bant1
+#EXTINF:0,VUSLAT TV
+http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
+#EXTINF:0,KANAL V
+rtmp://stream2.taksimbilisim.com/kanalvip/bant1
+#EXTINF:0,Urtmp://stream2.taksimbilisim.com/egemtv/bant1
+#EXTINF:0,UFUK TV
+http://yayin3.canlitv.com:1935/live/ufuktv/playlist.m3u8
+#EXTINF:0,TV KAYSERI
+rtmp://yayin3.canliyayin.org/tvkayseri/tvkayseri
+#EXTINF:0,TV 2000
+rtmp://stream.taksimbilisim.com/tv2000/bant1
+#EXTINF:0,TV52
+rtmp://stream.taksimbilisim.com/tv52/bant1
+#EXTINF:0,TV41
+rtmp://stream.taksimbilisim.com/tv41/bant1
+#EXTINF:0,TV10
+rtmp://5.135.142.60:1935/tv10/xetero
+#EXTINF:0,TARSUS GüNEY TV
+rtmp://stream.taksimbilisim.com:1935/tarsusguneytv/bant1
+#EXTINF:0,TARhttp://yayin3.canlitv.com:1935/live/tarimturktv/playlist.m3u8
+#EXTINF:0,MERSIN SUN TV
+rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
+#EXTINF:0,TRT 1 TR
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_900_av-b.m3u8?
+sd=10&rebase=on
+#EXTINF:0,TRT HABER TR
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_900_av-b.m3u8?
+sd=10&rebase=on
+#EXTINF:0,TRT AVAZ TR
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_700_av-p.m3u8?
+sd=10&rebase=on
+#EXTINF:0,TRT COCUK TR
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_600_av-b.m3u8?
+sd=10&rebase=on #EXTINF:0,TRT BELGESEL TR
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_900_av-p.m3u8?
+sd=10&rebase=on
+#EXTINF:0,TRT MUZIK TR
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_700_av-p.m3u8?
+sd=10&rebase=on
+#EXTINF:0,TRT WORLD TR
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_900_av-b.m3u8?
+sd=10&rebase=on #
+#EXTINF:-1,300 Rise Of An Empire
+http://www.deadlyblogger.com/NewRelease/300rise.mp4
+#EXTINF:-1,After Earth
+http://www.deadlyblogger.com/NewRelease/after.mp4
+#EXTINF:-1,Ali
+http://www.deadlyblogger.com/NewRelease/ali1.mp4
+#EXTINF:-1,Turbo
+http://www.deadlyblogger.com/NewRelease/turbo.mp4 
+#EXTINF:-1,The Hobbit The Desolation Of Smaug
+http://www.deadlyblogger.com/NewRelease/smaug2013.
+#EXTINF:0,radio 21 DE 
+https://api.new.livestream.com/accounts/22300508/events/6675945/broadcasts/15666644
+1.secure.m3u8
+#EXTINF:0,tribuna
+http://cm.hostlagarto.com:8081/TRIBUNA-TV/tribuna.myStream/playlist.m3u8
+#EXTINF:0,rmtv es
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:0,lasexta es
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-p.m3u8
+#EXTINF:0,AXN_HD_1 PL
+https://n-4-16.dcs.redcdn.pl/hls/o2/redefine/nlive/AXN_HD_1/1938/0/tv-
+ss/live.isml/playlist.m3u8
+#EXTINF:0,Videolina
+http://178.33.229.111:1935/live/Videolina/chunklist_w562060318.m3u8
+#EXTINF:0,raimovie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
+#EXTINF:0,tg24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+#EXTINF:0,rai5
+http://originstream12.rai.it:1935/live/smil:rai5.smil/chunklist_b1200000.m3u8
+#EXTINF:0,Paramount Channel
+http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
+#EXTINF:0,raipremium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8 
+#EXTINF:-1,Radio
+kosova1 http://82.114.72.2:8088/;stream.mp3
+#EXTINF:-1,Radio kosova2 http://82.114.72.2:8098/;stream.mp3
+#EXTINF:-1,Radio Tiana
+http://37.59.32.115:5160/;stream.mp3
+#EXTINF:-1,Radio Tiana2
+http://37.59.32.115:5162/;stream.mp3
+#EXTINF:-1,Radio Tirana Internacional
+http://37.59.32.115:5164/;stream.mp3
+#EXTINF:-1,Radio kosova e lire
+http://188.165.192.5:8018/;stream.mp3
+#EXTINF:-1,Radio Gjakova
+http://37.26.69.30:8080/;stream.mp3
+#EXTINF:-1,Radio Llapi
+http://5.189.158.54:8555/;stream.mp3
+#EXTINF:-1,Radio Dukagjini
+http://s6.voscast.com:8824/;stream.mp3
+#EXTINF:-1,Radio lushnja
+http://74.221.215.47:8000/;stream.mp3
+#EXTINF:-1,Radio Kumanova
+http://5.39.82.219:10030/;stream.mp3
+#EXTINF:-1,Radio Deqani
+http://streaming.jusahost.com:9994/;stream.mp3
+#EXTINF:-1,Radio Dardania
+http://s2.voscast.com:8824/;stream.mp3
+#EXTINF:-1,Radio Atdheu
+http://167.114.207.237:9978/;stream.mp3
+#EXTINF:-1,Radio Top iliria http://streaming.jusahost.com:9994/;stream.mp3
+#EXTINF:-1,Radio Vati
+http://radiostream.neotel.mk:8000/;stream.mp3
+#EXTINF:-1,Radio Fontana
+http://46.4.104.253:8010/;stream.mp3
+#EXTINF:-1,Radio Dielli
+http://77.92.64.44:8010/;stream.mp3
+#EXTINF:-1,Radio Love
+http://s2.voscast.com:8828/;stream.mp3
+#EXTINF:-1,Top Radio
+http://tar.stream.dev.al:9078/;stream.mp3
+#EXTINF:-1,Dance Albania
+http://192.99.0.170:5232/;stream.mp3
+#EXTINF:-1,Radio Marimanga
+http://91.82.85.71:9084/;stream.mp3
+#EXTINF:-1,Radio Pulla
+http://46.4.104.253:9986/;stream.mp3
+#EXTINF:-1,Siauliu TV
+http://193.8.246.110:8880/play/10095
+#EXTINF:-1,SPORT1 LT
+http://193.8.246.110:8880/play/10045 #EXTINF:-1,MDF1 DE
+http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+#EXTINF:-1,1 DE
+http://live-lh.daserste.de/i/daserste_de@91204/index_2692_av-p.m3u8
+#EXTINF:-1,BCTV DE
+http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+#EXTINF:-1,ISAR TV DE
+http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1,MDF1 DE
+http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+#EXTINF:-1,MUENCHEN TV DE
+http://muenchentv.iptv-
+playoutcenter.de:1935/muenchentv/muenchentv.stream_1/hasbahca.m3u8
+#EXTINF:-1,O TV DE
+http://oberpfalztv.iptv-
+playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
+#EXTINF:-1,OKD DE
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-
+dessau_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1,test DE
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-
+magdeburg_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1,OK DE
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-
+wernigerode_high/hasbahca.m3u8?bitrate=800
+#EXTINF:0,TVR 2 RO
+http://178.21.122.94:1935/live/_definst_/tvr2/playlist.m3u8?
+wowzasessionid=900722108&time=1461946221456
+#EXTINF:-1,test RO
+http://1tv.ambra.ro
+#EXTINF:-1,ALFAOMEGA TV RO
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?
+wowzasessionid=1441530266&time=1463063123262
+#EXTINF:-1,A1 TV RO
+http://89.43.138.29/live/playlist13.m3u8
+#EXTINF:-1,BANAT TV RO
+http://81.18.66.155:1935/live/banat-tv/playlist.m3u8
+#EXTINF:-1,test RO
+http://adv-video-cache.distinct.ro/live_playlist/_definst_/casamia/playlist.m3u8
+#EXTINF:-1,TV7 RO
+http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
+#EXTINF:-1,TV DIASPORA RO
+http://streamtv.go.ro:1935/tvdiaspora/live/playlist.m3u8 #EXTINF:-1,DIGI 24 RO 
+http://81.196.0.126/digi24edge/digi24hdhqhls/chunklist_w811272067.m3u8
+#EXTINF:-1,ISAI TV RO
+http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168 #EXTINF:-1,test RO
+http://s1.streamnet.ro:8006/stream.flv
+#EXTINF:-1,TELESHOPPING RO
+http://83.166.203.14:1935/ida/ida_1000k.stream/chunklist.m3u8?
+wowzasessionid=1144202524
+#EXTINF:-1,ITV RO
+http://s1.streamnet.ro:8014/stream.flv
+#EXTINF:-1,KANAL D RO
+http://80.86.107.169/iphone/live.m3u8
+#EXTINF:-1,test RO
+http://webmobile.xdev.ro:81/tv13/playlist.m3u8
+#EXTINF:-1,S TV RO
+http://s2.streamnet.ro:8035/stream.flv
+#EXTINF:-1,test RO
+http://rtvflash.smcmobile.ro:8020/rtv.flv
+#EXTINF:-1,TELEMOIA RO
+http://89.35.208.130
+#EXTINF:-1,TELESTAR 1 RO
+http://193.34.109.10:8090
+#EXTINF:-1,test RO http://83.103.150.198:8080
+#EXTINF:-1,test RO
+http://streams.iptv.zone/p/71050/c/110/u/4658/KtHe28D1mc7fbqcJqVEmHV2h0ey7rd
+#EXTINF:-1,ALFA MEDIA RO
+http://188.173.22.231:8080/video/emisie.m3u8
+#EXTINF:-1,TV PLUS RO
+http://85.186.146.34:8080
+#EXTINF:-1,TV SE RO
+http://iptv.tvsatrm.ro/livestream/tvse.m3u8
+#EXTINF:-1,U TV RO
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1358444381.m3u8
+#EXTINF:-1,ALICE RO
+http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml
+#EXTINF:-1,CHELSSA TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+#EXTINF:0,1 Partizan
+http://212.200.102.3:5000/udp/239.99.99.99:23999
+#EXTINF:-1 ,SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 ,SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,Abu Dabi Sport 1
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1,Abu Dabi Sport 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1 ,IPI 10
+http://uk3.zecast.com:1935/star-live/starsp2/playlist.m3u8 #EXTINF:-1,UK SKY MIX
+http://yopitv.tv:25461/live/LOCALOCA4635291/LOCALOCA4635291/63.m3u8
+#EXTINF:-1,TJK TV
+http://tjktv.ercdn.net/tjktv_576p.m3u8
+#EXTINF:-1 ,TRT SPORT
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#EXTINF:-1,Eurosport
+http://esioslive6-
+i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1,Eurosport 1 EN
+http://esioslive6-
+i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1,BAIEN
+http://149.202.208.85:8080/mystreambhenssp-1/Strm/index.m3u8
+#EXTINF:-1,DIGI SPORT 2
+http://smart-iptv.ro:8880/live/walti/valtiger/12.m3u8
+#EXTINF:-1,DIGI SPORT 3
+http://smart-iptv.ro:8880/live/walti/valtiger/13.m3u8
+#EXTINF:-1,DIGI SPORT 4
+http://smart-iptv.ro:8880/live/walti/valtiger/14.m3u8
+#EXTINF:-1,EUROSPORT
+http://smart-iptv.ro:8880/live/walti/valtiger/29.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://smart-iptv.ro:8880/live/walti/valtiger/30.m3u8
+#EXTINF:-1,A Sport HD
+http://85.132.71.6/turk/aspor/index.m3u8
+#EXTINF:-1,TRING NEWS
+http://95.107.132.100/out/u/287_3.m3u8
+#EXTINF:-1,TRING SPORT 1
++36http://95.107.132.100/out/u/398_3.m3u8
+#EXTINF:-1,TRING SPORT 2
+http://stream.shqiptv.com:7080/8096/tracks-v1a1/index.m3u8 
+#EXTINF:-1,INtv
+http://80.91.115.211:1935/live/livestream/playlist.m3u8 #EXTINF:-1,LIVING
+http://95.107.132.100/out/u/212_3.m3u8
+#EXTINF:-1,StarplusAl
+ http://163.172.102.117/StarplusAl/tracks-v1a1/index.m3u8
+#EXTINF:-1,channelone
+http://81.7.13.162/hls/channelone/index.m3u8 
+#EXTINF:-1,TV Jug
+http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
+#EXTINF:-1,rozafashkoder
+http://xrozafashkoder1x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,tvr
+http://stream1.megaiptv.info/tvrPr/playlist.m3u8
+#EXTINF:0,APOLLON TV http://185.80.224.14:554/live/rtmp.stream/playlist.m3u8 #EXTINF:-1,Wedding Channel AL
+http://wedding-channel.tv/stream.m3u8
+#EXTINF:-1,A1 report
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:0,ORA NEWS
+http://109.236.81.91/hls/oranews/index.m3u8 
+#EXTINF:-1,NEWS 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1,ALB Muzic LIVE 
+http://188.138.17.8:1935/albuk/albmus.stream/playlist.m3u8
+##EXTINF:-1 ,ALB Movie
+http://188.138.17.8:1935/albuk/albukplus.stream/playlist.m3u8
+#EXTINF:-1 ,ALBUK
+http://188.138.17.8:1935/albuk/albuk.stream/chunklist_w1458436068.m3u8
+#EXTINF:-1,dasma tv
+http://91.187.117.230:8080
+#EXTINF:-1,TRING TRING
+http://95.107.132.100/out/u/260_1.m3u8
+#EXTINF:0,RTRS
+http://smarttv.tvviet.tv/live82/RTRS.m3u8
+#EXTINF:0,RTS 1
+http://smarttv.tvviet.tv/live72/RTS1.m3u8
+#EXTINF:0,RTS 2
+http://smarttv.tvviet.tv/live92/RTS2.m3u8
+#EXTINF:0,RTS HD
+http://smarttv.tvviet.tv/live12/RTSHD.m3u8
+#EXTINF:-1,MK MUSIC
+http://141.136.14.18/kanal1/kanal1.m3u8
+#EXTINF:0,BH
+http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
+#EXTINF:-1,BOSNA TV1
+http://de2-2.nettvplus.com:8080/stream/?
+channel=promotvsi3btv&stream=1mb&sp=nettvplus?u=
+#EXTINF:-1, SKY Folk
+http://skyfolk.mk/live.m3u8
+#EXTINF:-1,JATA TV
+http://109.175.31.2:8525
+#EXTINF:-1,Plus Tv Mk
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1,MLAVA
+http://109.72.63.194:5900
+#EXTINF:-1,KCN 1
+http://212.200.102.3:5000/rtp/239.0.0.1:5000
+#EXTINF:-1,KCN 2
+http://212.200.102.3:5000/rtp/239.0.0.2:5000
+#EXTINF:-1,KCN 3 http://212.200.102.3:5000/rtp/239.0.0.3:5000 
+#EXTINF:-1,M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
+sd=10&rebase=on
+#EXTINF:-1,CITY
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/chunklist_w377
+062489.m3u8
+#EXTINF:-1,NRJ HITS 
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8 
+#EXTINF:-1,HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1,Capital TV http://ooyalahd2-
+f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
+sd=10&rebase=on
+#EXTINF:-1,IT-RTL 102.5
+http://origin-rtl-radio-stream.4mecloud.it/live-
+video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8 #EXTINF:-1,BBC WORLD 
+NEWS http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1,DW
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?
+sd=10&rebase=on
+#EXTINF:-1, Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1,abcnews
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?
+sd=10&b=1200&rebase=on
+#EXTINF:-1,france24
+http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
+#EXTINF:-1,Insight HD
+http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
+#EXTINF:0,Eurosport 1 HD
+http://esioslive6-
+i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1,ALL Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:0,pac 12
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1,ID Fashion HD
+http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:-1,HD Media 3D
+http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8 
+#EXTINF:-1,TV5
+MONDE https://api-asia.tv5monde.com/Live/250600/4792245510001-
+5/tv5plusinfo/master.m3u8
+#EXTINF:-1,Nasa tv
+https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8 XTINF:0,TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:0,TRT HABER HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:0,TRT OKUL
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
+#EXTINF:0,TRT TüRK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:0,TRT BELGESEL HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?
+sd=10&rebase=on&hdntl=
+#EXTINF:0,TRT AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:0,TRT MüZIK
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:0,TRT ARAPçA
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:0,TRT DIYANET
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+#EXTINF:0,TRT KURDI
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:0,CNNTüRK
+http://live.netd.com.tr/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:0,TRT ÇOCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:0,KANAL D
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1,KANALD HD
+http://37.48.83.10/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:0,SHOW MAX
+http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
+#EXTINF:0,TV 2
+http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+#EXTINF:0,CNN TüRK
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/index.m3u8
+#EXTINF:0,DREAM TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/index.m3u8
+#EXTINF:0,DREAM TüRK
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/index.m3u8
+#EXTINF:0,KANAL 7
+http://livetr.gostream.nl/kanal7hq/kanal7hq/master.m3u8
+#EXTINF:0,ÜLKE TV
+http://livetr.gostream.nl/ulketvhq/ulketvhq/master.m3u8
+#EXTINF:0,SEMERKAND
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
+#EXTINF:0,TV 4 http://mn-l.mncdn.com:1935/r_karamel/karamel/master.m3u8
+#EXTINF:0,NRT2
+http://nrttv.iptv-playoutcenter.de:1935/nrt2/nrt2.stream_1/master.m3u8
+#EXTINF:0,BLOOMBERG HT
+http://mn-l.mncdn.com/bloomberght/bloomberght2/index.m3u8
+#EXTINF:0,24
+http://mn-l.mncdn.com/kanal24/kanal243/chunklist_w1542967589.m3u8
+#EXTINF:0,TVNET
+http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b850000.m3u8
+#EXTINF:0,BENGüTüRK TV
+http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8?
+wowzasessionid=379483538
+#EXTINF:0,BRT HD
+http://wms.brtk.net/live/BRTHD/playlist.m3u8
+#EXTINF:0,TRT ÇOCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:0,SEMERKAND HD
+http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
+#EXTINF:0,BEYAZ TV
+http://37.77.2.234:1935/beyaz/live/playlist.m3u8
+#EXTINF:0,POWER HD
+http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
+#EXTINF:0,POWERTüRK HD
+http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/playlist.m3u8
+#EXTINF:0,DREAM
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0,DREAMTüRK
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:0,NUMBER ONE
+http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
+#EXTINF:0,NUMBER ONE TüRK
+http://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp/playlist.m3u8
+#EXTINF:0,BELGESEL TV
+http://188.165.239.200:7088/
+#EXTINF:0,TGRT BELGESEL
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+#EXTINF:0,SPORTS TV
+rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+#EXTINF:0,BURSASPOR TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
+#EXTINF:0,FANATIK TV
+rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
+#EXTINF:0,UCANKUS TV
+http://37.77.31.3:1935/ucak/live/playlist.m3u8
+#EXTINF:0,ÇAY TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8 #EXTINF:0,PLANET PEMBE
+rtmp://77.223.146.117/live/planetp
+#EXTINF:0,PLANET TüRK
+rtmp://77.223.146.117/live/planett
+#EXTINF:0,KANAL A
+http://stream.n3.noc.com.tr/kanala/kanala/chunklist_w1082384770.m3u8
+#EXTINF:0,AKSU TV
+http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
+#EXTINF:0,KAPADOKYA TV
+http://yayin3.canlitv.com:1935/live/kapadokyatv/HasBahCa.m3u8
+#EXTINF:0,rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
+#EXTINF:0,DOST TV
+http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
+#EXTINF:0,BEREKET TV
+http://berekettv.mediatriple.net/berekettv/berekethayvan.smil/Playlist.m3u8
+#EXTINF:0,WORLD TRAVEL CHANNEL
+rtmp://stream.taksimbilisim.com:1935/wtc/bant1
+#EXTINF:0,VUSLAT TV
+http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
+#EXTINF:0,KANAL V
+rtmp://stream2.taksimbilisim.com/kanalvip/bant1
+#EXTINF:0,Urtmp://stream2.taksimbilisim.com/egemtv/bant1
+#EXTINF:0,UFUK TV
+http://yayin3.canlitv.com:1935/live/ufuktv/playlist.m3u8
+#EXTINF:0,TV KAYSERI
+rtmp://yayin3.canliyayin.org/tvkayseri/tvkayseri
+#EXTINF:0,TV 2000
+rtmp://stream.taksimbilisim.com/tv2000/bant1
+#EXTINF:0,TV52
+rtmp://stream.taksimbilisim.com/tv52/bant1
+#EXTINF:0,TV41
+rtmp://stream.taksimbilisim.com/tv41/bant1
+#EXTINF:0,TV10
+rtmp://5.135.142.60:1935/tv10/xetero
+#EXTINF:0,TARSUS GüNEY TV
+rtmp://stream.taksimbilisim.com:1935/tarsusguneytv/bant1
+#EXTINF:0,TARhttp://yayin3.canlitv.com:1935/live/tarimturktv/playlist.m3u8
+#EXTINF:0,MERSIN SUN TV
+rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
+#EXTINF:0,TRT 1 TR
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_900_av-b.m3u8?
+sd=10&rebase=on
+#EXTINF:0,TRT HABER TR
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_900_av-b.m3u8?
+sd=10&rebase=on
+#EXTINF:0,TRT AVAZ TR http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_700_av-p.m3u8?
+sd=10&rebase=on
+#EXTINF:0,TRT COCUK TR
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_600_av-b.m3u8?
+sd=10&rebase=on
+#EXTINF:0,TRT BELGESEL TR
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_900_av-p.m3u8?
+sd=10&rebase=on
+#EXTINF:0,TRT MUZIK TR
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_700_av-p.m3u8?
+sd=10&rebase=on
+#EXTINF:0,TRT WORLD TR
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_900_av-b.m3u8?
+sd=10&rebase=on #
+#EXTINF:-1,300 Rise Of An Empire
+http://www.deadlyblogger.com/NewRelease/300rise.mp4
+#EXTINF:-1,After Earth
+http://www.deadlyblogger.com/NewRelease/after.mp4
+#EXTINF:-1,Ali
+http://www.deadlyblogger.com/NewRelease/ali1.mp4
+#EXTINF:-1,Turbo
+http://www.deadlyblogger.com/NewRelease/turbo.mp4 
+#EXTINF:-1,The Hobbit The Desolation Of Smaug
+http://www.deadlyblogger.com/NewRelease/smaug2013.
+#EXTINF:0,radio 21 DE 
+https://api.new.livestream.com/accounts/22300508/events/6675945/broadcasts/15666644
+1.secure.m3u8
+#EXTINF:0,tribuna
+http://cm.hostlagarto.com:8081/TRIBUNA-TV/tribuna.myStream/playlist.m3u8
+#EXTINF:0,rmtv es
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:0,lasexta es
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-p.m3u8
+#EXTINF:0,AXN_HD_1 PL
+https://n-4-16.dcs.redcdn.pl/hls/o2/redefine/nlive/AXN_HD_1/1938/0/tv-
+ss/live.isml/playlist.m3u8
+#EXTINF:0,Videolina
+http://178.33.229.111:1935/live/Videolina/chunklist_w562060318.m3u8
+#EXTINF:0,raimovie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
+#EXTINF:0,tg24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+#EXTINF:0,rai5
+http://originstream12.rai.it:1935/live/smil:rai5.smil/chunklist_b1200000.m3u8
+#EXTINF:0,Paramount Channel
+http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8 #EXTINF:0,raipremium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8 
+#EXTINF:-1,Radio
+kosova1 http://82.114.72.2:8088/;stream.mp3
+#EXTINF:-1,Radio kosova2
+http://82.114.72.2:8098/;stream.mp3
+#EXTINF:-1,Radio Tiana
+http://37.59.32.115:5160/;stream.mp3
+#EXTINF:-1,Radio Tiana2
+http://37.59.32.115:5162/;stream.mp3
+#EXTINF:-1,Radio Tirana Internacional
+http://37.59.32.115:5164/;stream.mp3
+#EXTINF:-1,Radio kosova e lire
+http://188.165.192.5:8018/;stream.mp3
+#EXTINF:-1,Radio Gjakova
+http://37.26.69.30:8080/;stream.mp3
+#EXTINF:-1,Radio Llapi
+http://5.189.158.54:8555/;stream.mp3
+#EXTINF:-1,Radio Dukagjini
+http://s6.voscast.com:8824/;stream.mp3
+#EXTINF:-1,Radio lushnja
+http://74.221.215.47:8000/;stream.mp3
+#EXTINF:-1,Radio Kumanova
+http://5.39.82.219:10030/;stream.mp3
+#EXTINF:-1,Radio Deqani
+http://streaming.jusahost.com:9994/;stream.mp3
+#EXTINF:-1,Radio Dardania
+http://s2.voscast.com:8824/;stream.mp3
+#EXTINF:-1,Radio Atdheu
+http://167.114.207.237:9978/;stream.mp3
+#EXTINF:-1,Radio Top iliria http://streaming.jusahost.com:9994/;stream.mp3
+#EXTINF:-1,Radio Vati
+http://radiostream.neotel.mk:8000/;stream.mp3
+#EXTINF:-1,Radio Fontana
+http://46.4.104.253:8010/;stream.mp3
+#EXTINF:-1,Radio Dielli
+http://77.92.64.44:8010/;stream.mp3
+#EXTINF:-1,Radio Love
+http://s2.voscast.com:8828/;stream.mp3
+#EXTINF:-1,Top Radio
+http://tar.stream.dev.al:9078/;stream.mp3
+#EXTINF:-1,Dance Albania
+http://192.99.0.170:5232/;stream.mp3
+#EXTINF:-1,Radio Marimanga
+http://91.82.85.71:9084/;stream.mp3
+#EXTINF:-1,Radio Pulla http://46.4.104.253:9986/;stream.mp3
+#EXTINF:-1,Siauliu TV
+http://193.8.246.110:8880/play/10095
+#EXTINF:-1,SPORT1 LT
+http://193.8.246.110:8880/play/10045 
+#EXTINF:-1,MDF1 DE
+http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+#EXTINF:-1,1 DE
+http://live-lh.daserste.de/i/daserste_de@91204/index_2692_av-p.m3u8
+#EXTINF:-1,BCTV DE
+http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+#EXTINF:-1,ISAR TV DE
+http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1,MDF1 DE
+http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+#EXTINF:-1,MUENCHEN TV DE
+http://muenchentv.iptv-
+playoutcenter.de:1935/muenchentv/muenchentv.stream_1/hasbahca.m3u8
+#EXTINF:-1,O TV DE
+http://oberpfalztv.iptv-
+playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
+#EXTINF:-1,OKD DE
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-
+dessau_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1,test DE
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-
+magdeburg_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1,OK DE
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-
+wernigerode_high/hasbahca.m3u8?bitrate=800
+#EXTINF:0,TVR 2 RO
+http://178.21.122.94:1935/live/_definst_/tvr2/playlist.m3u8?
+wowzasessionid=900722108&time=1461946221456
+#EXTINF:-1,test RO
+http://1tv.ambra.ro
+#EXTINF:-1,ALFAOMEGA TV RO
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?
+wowzasessionid=1441530266&time=1463063123262
+#EXTINF:-1,A1 TV RO
+http://89.43.138.29/live/playlist13.m3u8
+#EXTINF:-1,BANAT TV RO
+http://81.18.66.155:1935/live/banat-tv/playlist.m3u8
+#EXTINF:-1,test RO
+http://adv-video-cache.distinct.ro/live_playlist/_definst_/casamia/playlist.m3u8
+#EXTINF:-1,TV7 RO
+http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161 #EXTINF:-1,TV DIASPORA RO
+http://streamtv.go.ro:1935/tvdiaspora/live/playlist.m3u8 #EXTINF:-1,DIGI 24 RO 
+http://81.196.0.126/digi24edge/digi24hdhqhls/chunklist_w811272067.m3u8
+#EXTINF:-1,ISAI TV RO
+http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
+#EXTINF:-1,test RO
+http://s1.streamnet.ro:8006/stream.flv
+#EXTINF:-1,TELESHOPPING RO
+http://83.166.203.14:1935/ida/ida_1000k.stream/chunklist.m3u8?
+wowzasessionid=1144202524
+#EXTINF:-1,ITV RO
+http://s1.streamnet.ro:8014/stream.flv
+#EXTINF:-1,KANAL D RO
+http://80.86.107.169/iphone/live.m3u8
+#EXTINF:-1,test RO
+http://webmobile.xdev.ro:81/tv13/playlist.m3u8
+#EXTINF:-1,S TV RO
+http://s2.streamnet.ro:8035/stream.flv
+#EXTINF:-1,test RO
+http://rtvflash.smcmobile.ro:8020/rtv.flv
+#EXTINF:-1,TELEMOIA RO
+http://89.35.208.130
+#EXTINF:-1,TELESTAR 1 RO
+http://193.34.109.10:8090
+#EXTINF:-1,test RO http://83.103.150.198:8080
+#EXTINF:-1,test RO
+http://streams.iptv.zone/p/71050/c/110/u/4658/KtHe28D1mc7fbqcJqVEmHV2h0ey7rd
+#EXTINF:-1,ALFA MEDIA RO
+http://188.173.22.231:8080/video/emisie.m3u8
+#EXTINF:-1,TV PLUS RO
+http://85.186.146.34:8080
+#EXTINF:-1,TV SE RO
+http://iptv.tvsatrm.ro/livestream/tvse.m3u8
+#EXTINF:-1,U TV RO
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1358444381.m3u8
+#EXTINF:-1,ALICE RO
+http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml
+#EXTINF:-1,RTSH 1
+http://95.107.132.100/out/u/246_3.m3u8
+#EXTINF:-1,RTK1
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:-1,21
+http://95.107.132.100/out/u/228_1.m3u8
+#EXTINF:-1,21 MIX
+http://5.135.92.130:5749/out/u/343_1.m3u8 
+#EXTINF:-1,KTV http://95.107.132.102/out/u/240_184.m3u8
+#EXTINF:-1,KLAN
+http://158.69.162.115:3361/out/u/290_3.m3u8
+#EXTINF:-1,Rrokum TV
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8 
+#EXTINF:-1,DUKAGJINi TV
+http://95.107.132.102/out/u/336_1.m3u8 
+#EXTINF:-1,VIZION PLUS
+http://95.107.132.100/out/u/412_3.m3u8
+#EXTINF:-1,RTK3
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:-1,RTK4
+http://84.22.56.10:1935/rtk4stream/rtk4.stream/chunklist_w1416293160.m3u8 
+#EXTINF:-1,SHQIP
+http://5.135.92.130:5749/out/u/225_178.m3u8
+#EXTINF:-1,FILM NJE
+http://95.107.132.218/out/u/135_1.m3u8
+#EXTINF:-1,FILM DY
+http://95.107.132.218/out/u/151_1.m3u8
+#EXTINF:-1,FILM AUTOR
+http://95.107.132.218/out/u/191_1.m3u8 
+#EXTINF:-1,TRING WORLD
+http://95.107.132.100/out/u/299_1.m3u8
+#EXTINF:-1,TRING PLANET
+http://95.107.132.100/out/u/269_1.m3u8
+#EXTINF:-1,LIVING
+http://95.107.132.100/out/u/212_3.m3u8
+#EXTINF:-1,JOLLY
+http://95.107.132.100/out/u/231_1.m3u8 
+#EXTINF:-1,3+ http://5.135.92.130:5749/out/u/235_182.m3u8
+#EXTINF:-1 ,ALB Movie
+http://188.138.17.8:1935/albuk/albukplus.stream/playlist.m3u8
+#EXTINF:-1 ,ALBUK
+http://188.138.17.8:1935/albuk/albuk.stream/chunklist_w1458436068.m3u8
+#EXTINF:-1,al usa tv
+http://stream.shqiptv.com:7080/altvusa/index.m3u8
+#EXTINF:-1,RTV ZERI I KOSOVES
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/playlist.m3u8
+#EXTINF:-1,Super Sonic Tv
+http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
+#EXTINF:-1,Super TV Folk http://str103.setplex.net:1935/228/stv_folk/playlist.m3u8
+#EXTINF:0,AMOL
+http://46.19.228.174:8001/hd/tracks-v1a1/index.m3u8
+#EXTINF:-1,dielli
+http://stream2.itprishtina.com:90/dielli/index.m3u8 
+#EXTINF:-1,Animal Planet http://smart-iptv.ro:8880/live/walti/valtiger/501.m3u8
+#EXTINF:-1,Discovery Science
+http://smart-iptv.ro:8880/live/walti/valtiger/499.m3u8
+#EXTINF:-1,Discovery Channel Romania
+http://smart-iptv.ro:8880/live/walti/valtiger/399.m3u8
+#EXTINF:-1,Discovery ID EXTRA
+http://smart-iptv.ro:8880/live/walti/valtiger/420.m3u8
+#EXTINF:-1,NATIONAL GEO WILD
+http://smart-iptv.ro:8880/live/walti/valtiger/33.m3u8
+#EXTINF:-1,NATIONAL GEO
+http://smart-iptv.ro:8880/live/walti/valtiger/34.m3u8
+#EXTINF:-1,DIGI WORLD
+http://smart-iptv.ro:8880/live/walti/valtiger/32.m3u8
+#EXTINF:-1,DIGI ANIMAL WORD
+http://smart-iptv.ro:8880/live/walti/valtiger/394.m3u8
+#EXTINF:-1,VIASAT EXPLORE
+http://smart-iptv.ro:8880/live/walti/valtiger/397.m3u8
+#EXTINF:-1,VIASAT HISTORY
+http://smart-iptv.ro:8880/live/walti/valtiger/395.m3u8
+#EXTINF:-1,VIASAT NATURE
+http://smart-iptv.ro:8880/live/walti/valtiger/396.m3u8
+#EXTINF:-1,MEGAMAX
+http://smart-iptv.ro:8880/live/walti/valtiger/398.m3u8
+#EXTINF:-1,HISTORY CHANNAL
+http://smart-iptv.ro:8880/live/walti/valtiger/35.m3u8
+#EXTINF:-1,BBC EARTH
+http://smart-iptv.ro:8880/live/walti/valtiger/470.m3u8
+ #EXTINF:-1,DIGI S 1
+https://pastebin.com/raw/XazjPbd8
+#EXTINF:-1,DIGI S 2
+https://pastebin.com/raw/defdJNW8
+#EXTINF:-1,DIGI SPORT 2
+http://smart-iptv.ro:8880/live/walti/valtiger/12.m3u8
+#EXTINF:-1,DIGI SPORT 3
+http://smart-iptv.ro:8880/live/walti/valtiger/13.m3u8
+#EXTINF:-1,DIGI SPORT 4
+http://smart-iptv.ro:8880/live/walti/valtiger/14.m3u8
+#EXTINF:-1,EUROSPORT
+http://smart-iptv.ro:8880/live/walti/valtiger/29.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://smart-iptv.ro:8880/live/walti/valtiger/30.m3u8
+#EXTINF:-1,A Sport HD
+http://85.132.71.6/turk/aspor/index.m3u8
+#EXTINF:-1,TRING NEWS
+http://95.107.132.100/out/u/287_3.m3u8
+#EXTINF:-1,TRING SPORT 1 +36http://95.107.132.100/out/u/398_3.m3u8
+#EXTINF:-1,TRING SPORT 2
+http://stream.shqiptv.com:7080/8096/tracks-v1a1/index.m3u8 
+#EXTINF:-1,INtv
+http://80.91.115.211:1935/live/livestream/playlist.m3u8 #EXTINF:-1,LIVING
+http://95.107.132.100/out/u/212_3.m3u8
+#EXTINF:-1,StarplusAl
+ http://163.172.102.117/StarplusAl/tracks-v1a1/index.m3u8
+#EXTINF:-1,channelone
+http://81.7.13.162/hls/channelone/index.m3u8 
+#EXTINF:-1,TV Jug
+http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
+#EXTINF:-1,rozafashkoder
+http://xrozafashkoder1x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,tvr
+http://stream1.megaiptv.info/tvrPr/playlist.m3u8
+#EXTINF:0,APOLLON TV http://185.80.224.14:554/live/rtmp.stream/playlist.m3u8 
+#EXTINF:-1,Wedding Channel AL
+http://wedding-channel.tv/stream.m3u8
+#EXTINF:-1,A1 report
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:0,ORA NEWS
+http://109.236.81.91/hls/oranews/index.m3u8 
+#EXTINF:-1,NEWS 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1,ALB Muzic LIVE 
+http://188.138.17.8:1935/albuk/albmus.stream/playlist.m3u8
+##EXTINF:-1 ,ALB Movie
+http://188.138.17.8:1935/albuk/albukplus.stream/playlist.m3u8
+#EXTINF:-1 ,ALBUK
+http://188.138.17.8:1935/albuk/albuk.stream/chunklist_w1458436068.m3u8
+#EXTINF:-1,dasma tv
+http://91.187.117.230:8080
+#EXTINF:-1,TRING TRING
+http://95.107.132.100/out/u/260_1.m3u8
+#EXTINF:0,RTRS
+http://smarttv.tvviet.tv/live82/RTRS.m3u8
+#EXTINF:0,RTS 1
+http://smarttv.tvviet.tv/live72/RTS1.m3u8
+#EXTINF:0,RTS 2
+http://smarttv.tvviet.tv/live92/RTS2.m3u8
+#EXTINF:0,RTS HD
+http://smarttv.tvviet.tv/live12/RTSHD.m3u8
+#EXTINF:-1,MK MUSIC
+http://141.136.14.18/kanal1/kanal1.m3u8
+#EXTINF:0,BH http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
+#EXTINF:-1,BOSNA TV1
+http://de2-2.nettvplus.com:8080/stream/?
+channel=promotvsi3btv&stream=1mb&sp=nettvplus?u=
+#EXTINF:-1, SKY Folk
+http://skyfolk.mk/live.m3u8
+#EXTINF:-1,JATA TV
+http://109.175.31.2:8525
+#EXTINF:-1,Plus Tv Mk
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1,MLAVA
+http://109.72.63.194:5900
+#EXTINF:-1,KCN 1
+http://212.200.102.3:5000/rtp/239.0.0.1:5000
+#EXTINF:-1,KCN 2
+http://212.200.102.3:5000/rtp/239.0.0.2:5000
+#EXTINF:-1,KCN 3
+http://212.200.102.3:5000/rtp/239.0.0.3:5000 
+#EXTINF:-1,M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
+sd=10&rebase=on
+#EXTINF:-1,CITY
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/chunklist_w377
+062489.m3u8
+#EXTINF:-1,NRJ HITS 
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8 
+#EXTINF:-1,HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1,Capital TV http://ooyalahd2-
+f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
+sd=10&rebase=on
+#EXTINF:-1,IT-RTL 102.5
+http://origin-rtl-radio-stream.4mecloud.it/live-
+video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8 #EXTINF:-1,BBC WORLD 
+NEWS http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1,DW
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?
+sd=10&rebase=on
+#EXTINF:-1, Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1,abcnews
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?
+sd=10&b=1200&rebase=on
+#EXTINF:-1,france24
+http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
+#EXTINF:-1,Insight HD http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
+#EXTINF:0,Eurosport 1 HD
+http://esioslive6-
+i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1,ALL Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:0,pac 12
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1,ID Fashion HD
+http://95.67.8.22/hls/idfashion/index.m3u8
+#EXTINF:-1,HD Media 3D
+http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8 
+#EXTINF:-1,TV5
+MONDE https://api-asia.tv5monde.com/Live/250600/4792245510001-
+5/tv5plusinfo/master.m3u8
+#EXTINF:-1,Nasa tv
+https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
+XTINF:0,TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:0,TRT HABER HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:0,TRT OKUL
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
+#EXTINF:0,TRT TüRK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:0,TRT BELGESEL HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8?
+sd=10&rebase=on&hdntl=
+#EXTINF:0,TRT AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:0,TRT MüZIK
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:0,TRT ARAPçA
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:0,TRT DIYANET
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+#EXTINF:0,TRT KURDI
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:0,CNNTüRK
+http://live.netd.com.tr/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:0,TRT ÇOCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:0,KANAL D
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1,KANALD HD
+http://37.48.83.10/S1/HLS_LIVE/kanald/1000/prog_index.m3u8 #EXTINF:0,SHOW MAX
+http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
+#EXTINF:0,TV 2
+http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+#EXTINF:0,CNN TüRK
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/index.m3u8
+#EXTINF:0,DREAM TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/index.m3u8
+#EXTINF:0,DREAM TüRK
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/index.m3u8
+#EXTINF:0,KANAL 7
+http://livetr.gostream.nl/kanal7hq/kanal7hq/master.m3u8
+#EXTINF:0,ÜLKE TV
+http://livetr.gostream.nl/ulketvhq/ulketvhq/master.m3u8
+#EXTINF:0,SEMERKAND
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
+#EXTINF:0,TV 4
+http://mn-l.mncdn.com:1935/r_karamel/karamel/master.m3u8
+#EXTINF:0,NRT2
+http://nrttv.iptv-playoutcenter.de:1935/nrt2/nrt2.stream_1/master.m3u8
+#EXTINF:0,BLOOMBERG HT
+http://mn-l.mncdn.com/bloomberght/bloomberght2/index.m3u8
+#EXTINF:0,24
+http://mn-l.mncdn.com/kanal24/kanal243/chunklist_w1542967589.m3u8
+#EXTINF:0,TVNET
+http://canli2.tvnet.tv.tr/live/smil:tvnet.smil/chunklist_b850000.m3u8
+#EXTINF:0,BENGüTüRK TV
+http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8?
+wowzasessionid=379483538
+#EXTINF:0,BRT HD
+http://wms.brtk.net/live/BRTHD/playlist.m3u8
+#EXTINF:0,TRT ÇOCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:0,SEMERKAND HD
+http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
+#EXTINF:0,BEYAZ TV
+http://37.77.2.234:1935/beyaz/live/playlist.m3u8
+#EXTINF:0,POWER HD
+http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
+#EXTINF:0,POWERTüRK HD
+http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/playlist.m3u8
+#EXTINF:0,DREAM
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0,DREAMTüRK
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:0,NUMBER ONE http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
+#EXTINF:0,NUMBER ONE TüRK
+http://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp/playlist.m3u8
+#EXTINF:0,BELGESEL TV
+http://188.165.239.200:7088/
+#EXTINF:0,TGRT BELGESEL
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+#EXTINF:0,SPORTS TV
+rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+#EXTINF:0,BURSASPOR TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
+#EXTINF:0,FANATIK TV
+rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
+#EXTINF:0,UCANKUS TV
+http://37.77.31.3:1935/ucak/live/playlist.m3u8
+#EXTINF:0,ÇAY TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:0,PLANET PEMBE
+rtmp://77.223.146.117/live/planetp
+#EXTINF:0,PLANET TüRK
+rtmp://77.223.146.117/live/planett
+#EXTINF:0,KANAL A
+http://stream.n3.noc.com.tr/kanala/kanala/chunklist_w1082384770.m3u8
+#EXTINF:0,AKSU TV
+http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
+#EXTINF:0,KAPADOKYA TV
+http://yayin3.canlitv.com:1935/live/kapadokyatv/HasBahCa.m3u8
+#EXTINF:0,rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
+#EXTINF:0,DOST TV
+http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
+#EXTINF:0,BEREKET TV
+http://berekettv.mediatriple.net/berekettv/berekethayvan.smil/Playlist.m3u8
+#EXTINF:0,WORLD TRAVEL CHANNEL
+rtmp://stream.taksimbilisim.com:1935/wtc/bant1
+#EXTINF:0,VUSLAT TV
+http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
+#EXTINF:0,KANAL V
+rtmp://stream2.taksimbilisim.com/kanalvip/bant1
+#EXTINF:0,Urtmp://stream2.taksimbilisim.com/egemtv/bant1
+#EXTINF:0,UFUK TV
+http://yayin3.canlitv.com:1935/live/ufuktv/playlist.m3u8
+#EXTINF:0,TV KAYSERI
+rtmp://yayin3.canliyayin.org/tvkayseri/tvkayseri
+#EXTINF:0,TV 2000
+rtmp://stream.taksimbilisim.com/tv2000/bant1
+#EXTINF:0,TV52 rtmp://stream.taksimbilisim.com/tv52/bant1
+#EXTINF:0,TV41
+rtmp://stream.taksimbilisim.com/tv41/bant1
+#EXTINF:0,TV10
+rtmp://5.135.142.60:1935/tv10/xetero
+#EXTINF:0,TARSUS GüNEY TV
+rtmp://stream.taksimbilisim.com:1935/tarsusguneytv/bant1
+#EXTINF:0,TARhttp://yayin3.canlitv.com:1935/live/tarimturktv/playlist.m3u8
+#EXTINF:0,MERSIN SUN TV
+rtmp://stream2.taksimbilisim.com:1935/mersinsuntv/bant1
+#EXTINF:0,TRT 1 TR
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_900_av-b.m3u8?
+sd=10&rebase=on
+#EXTINF:0,TRT HABER TR
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_900_av-b.m3u8?
+sd=10&rebase=on
+#EXTINF:0,TRT AVAZ TR
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_700_av-p.m3u8?
+sd=10&rebase=on
+#EXTINF:0,TRT COCUK TR
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_600_av-b.m3u8?
+sd=10&rebase=on
+#EXTINF:0,TRT BELGESEL TR
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_900_av-p.m3u8?
+sd=10&rebase=on
+#EXTINF:0,TRT MUZIK TR
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_700_av-p.m3u8?
+sd=10&rebase=on
+#EXTINF:0,TRT WORLD TR
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_900_av-b.m3u8?
+sd=10&rebase=on #
+#EXTINF:-1,300 Rise Of An Empire
+http://www.deadlyblogger.com/NewRelease/300rise.mp4
+#EXTINF:-1,After Earth
+http://www.deadlyblogger.com/NewRelease/after.mp4
+#EXTINF:-1,Ali
+http://www.deadlyblogger.com/NewRelease/ali1.mp4
+#EXTINF:-1,Turbo
+http://www.deadlyblogger.com/NewRelease/turbo.mp4 
+#EXTINF:-1,The Hobbit The Desolation Of Smaug
+http://www.deadlyblogger.com/NewRelease/smaug2013.
+#EXTINF:0,radio 21 DE 
+https://api.new.livestream.com/accounts/22300508/events/6675945/broadcasts/15666644
+1.secure.m3u8
+#EXTINF:0,tribuna
+http://cm.hostlagarto.com:8081/TRIBUNA-TV/tribuna.myStream/playlist.m3u8 #EXTINF:0,rmtv es
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:0,lasexta es
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-p.m3u8
+#EXTINF:0,AXN_HD_1 PL
+https://n-4-16.dcs.redcdn.pl/hls/o2/redefine/nlive/AXN_HD_1/1938/0/tv-
+ss/live.isml/playlist.m3u8
+#EXTINF:0,Videolina
+http://178.33.229.111:1935/live/Videolina/chunklist_w562060318.m3u8
+#EXTINF:0,raimovie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
+#EXTINF:0,tg24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+#EXTINF:0,rai5
+http://originstream12.rai.it:1935/live/smil:rai5.smil/chunklist_b1200000.m3u8
+#EXTINF:0,Paramount Channel
+http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
+#EXTINF:0,raipremium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8 
+#EXTINF:-1,Radio
+kosova1 http://82.114.72.2:8088/;stream.mp3
+#EXTINF:-1,Radio kosova2
+http://82.114.72.2:8098/;stream.mp3
+#EXTINF:-1,Radio Tiana
+http://37.59.32.115:5160/;stream.mp3
+#EXTINF:-1,Radio Tiana2
+http://37.59.32.115:5162/;stream.mp3
+#EXTINF:-1,Radio Tirana Internacional
+http://37.59.32.115:5164/;stream.mp3
+#EXTINF:-1,Radio kosova e lire
+http://188.165.192.5:8018/;stream.mp3
+#EXTINF:-1,Radio Gjakova
+http://37.26.69.30:8080/;stream.mp3
+#EXTINF:-1,Radio Llapi
+http://5.189.158.54:8555/;stream.mp3
+#EXTINF:-1,Radio Dukagjini
+http://s6.voscast.com:8824/;stream.mp3
+#EXTINF:-1,Radio lushnja
+http://74.221.215.47:8000/;stream.mp3
+#EXTINF:-1,Radio Kumanova
+http://5.39.82.219:10030/;stream.mp3
+#EXTINF:-1,Radio Deqani
+http://streaming.jusahost.com:9994/;stream.mp3
+#EXTINF:-1,Radio Dardania
+http://s2.voscast.com:8824/;stream.mp3
+#EXTINF:-1,Radio Atdheu http://167.114.207.237:9978/;stream.mp3
+#EXTINF:-1,Radio Top iliria http://streaming.jusahost.com:9994/;stream.mp3
+#EXTINF:-1,Radio Vati
+http://radiostream.neotel.mk:8000/;stream.mp3
+#EXTINF:-1,Radio Fontana
+http://46.4.104.253:8010/;stream.mp3
+#EXTINF:-1,Radio Dielli
+http://77.92.64.44:8010/;stream.mp3
+#EXTINF:-1,Radio Love
+http://s2.voscast.com:8828/;stream.mp3
+#EXTINF:-1,Top Radio
+http://tar.stream.dev.al:9078/;stream.mp3
+#EXTINF:-1,Dance Albania
+http://192.99.0.170:5232/;stream.mp3
+#EXTINF:-1,Radio Marimanga
+http://91.82.85.71:9084/;stream.mp3
+#EXTINF:-1,Radio Pulla
+http://46.4.104.253:9986/;stream.mp3
+#EXTINF:-1,Siauliu TV
+http://193.8.246.110:8880/play/10095
+#EXTINF:-1,SPORT1 LT
+http://193.8.246.110:8880/play/10045 
+#EXTINF:-1,MDF1 DE
+http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+#EXTINF:-1,1 DE
+http://live-lh.daserste.de/i/daserste_de@91204/index_2692_av-p.m3u8
+#EXTINF:-1,BCTV DE
+http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+#EXTINF:-1,ISAR TV DE
+http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1,MDF1 DE
+http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+#EXTINF:-1,MUENCHEN TV DE
+http://muenchentv.iptv-
+playoutcenter.de:1935/muenchentv/muenchentv.stream_1/hasbahca.m3u8
+#EXTINF:-1,O TV DE
+http://oberpfalztv.iptv-
+playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
+#EXTINF:-1,OKD DE
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-
+dessau_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1,test DE
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-
+magdeburg_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1,OK DE http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-
+wernigerode_high/hasbahca.m3u8?bitrate=800
+#EXTINF:0,TVR 2 RO
+http://178.21.122.94:1935/live/_definst_/tvr2/playlist.m3u8?
+wowzasessionid=900722108&time=1461946221456
+#EXTINF:-1,test RO
+http://1tv.ambra.ro
+#EXTINF:-1,ALFAOMEGA TV RO
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?
+wowzasessionid=1441530266&time=1463063123262
+#EXTINF:-1,A1 TV RO
+http://89.43.138.29/live/playlist13.m3u8
+#EXTINF:-1,BANAT TV RO
+http://81.18.66.155:1935/live/banat-tv/playlist.m3u8
+#EXTINF:-1,test RO
+http://adv-video-cache.distinct.ro/live_playlist/_definst_/casamia/playlist.m3u8
+#EXTINF:-1,TV7 RO
+http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
+#EXTINF:-1,TV DIASPORA RO
+http://streamtv.go.ro:1935/tvdiaspora/live/playlist.m3u8 #EXTINF:-1,DIGI 24 RO 
+http://81.196.0.126/digi24edge/digi24hdhqhls/chunklist_w811272067.m3u8
+#EXTINF:-1,ISAI TV RO
+http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168
+#EXTINF:-1,test RO
+http://s1.streamnet.ro:8006/stream.flv
+#EXTINF:-1,TELESHOPPING RO
+http://83.166.203.14:1935/ida/ida_1000k.stream/chunklist.m3u8?
+wowzasessionid=1144202524
+#EXTINF:-1,ITV RO
+http://s1.streamnet.ro:8014/stream.flv
+#EXTINF:-1,KANAL D RO
+http://80.86.107.169/iphone/live.m3u8
+#EXTINF:-1,test RO
+http://webmobile.xdev.ro:81/tv13/playlist.m3u8
+#EXTINF:-1,S TV RO
+http://s2.streamnet.ro:8035/stream.flv
+#EXTINF:-1,test RO
+http://rtvflash.smcmobile.ro:8020/rtv.flv
+#EXTINF:-1,TELEMOIA RO
+http://89.35.208.130
+#EXTINF:-1,TELESTAR 1 RO
+http://193.34.109.10:8090
+#EXTINF:-1,test RO http://83.103.150.198:8080
+#EXTINF:-1,test RO
+http://streams.iptv.zone/p/71050/c/110/u/4658/KtHe28D1mc7fbqcJqVEmHV2h0ey7rd
+#EXTINF:-1,ALFA MEDIA RO http://188.173.22.231:8080/video/emisie.m3u8
+#EXTINF:-1,TV PLUS RO
+http://85.186.146.34:8080
+#EXTINF:-1,TV SE RO
+http://iptv.tvsatrm.ro/livestream/tvse.m3u8
+#EXTINF:-1,U TV RO
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1358444381.m3u8
+#EXTINF:-1,ALICE RO
+http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml
+#EXTINF:-1,Abu Dabi Sport 1
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1,Abu Dabi Sport 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1 ,IPI 10
+http://uk3.zecast.com:1935/star-live/starsp2/playlist.m3u8
+#EXTINF:-1,UK SKY MIX
+http://yopitv.tv:25461/live/LOCALOCA4635291/LOCALOCA4635291/63.m3u8
+#EXTINF:-1,TJK TV
+http://tjktv.ercdn.net/tjktv_576p.m3u8
+#EXTINF:-1 ,TRT SPORT
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#EXTINF:-1,Eurosport
+http://esioslive6-
+i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1,Eurosport 1 EN
+http://esioslive6-
+i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1,BAIEN
+http://149.202.208.85:8080/mystreambhenssp-1/Strm/index.m3u8
+#EXTINF:-1,Abu Dabi Sport 1
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1,Abu Dabi Sport 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1 ,IPI 10
+http://uk3.zecast.com:1935/star-live/starsp2/playlist.m3u8
+#EXTINF:-1,UK SKY MIX
+http://yopitv.tv:25461/live/LOCALOCA4635291/LOCALOCA4635291/63.m3u8
+#EXTINF:-1,TJK TV
+http://tjktv.ercdn.net/tjktv_576p.m3u8
+#EXTINF:-1 ,TRT SPORT
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
