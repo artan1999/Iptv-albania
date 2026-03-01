@@ -1,0 +1,761 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="==== GJENERALE ====="
+tvg-lfgo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU
+ALBANIA",==== GJENERALE =====
+http://promo.sansat.biz:25461/images/promo/promo.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| BIG BROTHER VIP KOSOVA 1"
+tvg-logo="http://vodkom.com/MyAlbania/bigbrothervipkosova1.png" group-title="EU
+ALBANIA",|ALB| BIG BROTHER VIP KOSOVA 1
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/682544
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| BIG BROTHER VIP KOSOVA 1 HD" tvg-
+logo="http://vodkom.com/MyAlbania/bigbrothervipkosova1.png" group-title="EU
+ALBANIA",|ALB| BIG BROTHER VIP KOSOVA 1 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/689602
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| BIG BROTHER VIP KOSOVA 2"
+tvg-logo="http://vodkom.com/MyAlbania/bigbrothervipkosova2.png" group-title="EU
+ALBANIA",|ALB| BIG BROTHER VIP KOSOVA 2
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/682545
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| BIG BROTHER VIP KOSOVA 2 HD" tvg-
+logo="http://vodkom.com/MyAlbania/bigbrothervipkosova2.png" group-title="EU
+ALBANIA",|ALB| BIG BROTHER VIP KOSOVA 2 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/689603
+#EXTINF:-1 tvg-ID="Top Channel.al" tvg-name="|ALB| TOP CHANNEL HD" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/topchanel.png" group-title="EU
+ALBANIA",|ALB| TOP CHANNEL HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95886
+#EXTINF:-1 tvg-ID="Top Channel.al" tvg-name="|ALB| TOP CHANNEL 4K" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/topchanel.png" group-title="EU
+ALBANIA",|ALB| TOP CHANNEL 4K
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95887
+#EXTINF:-1 tvg-ID="tvdukagjini.al" tvg-name="|ALB| TV DUKAGJINI"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/dukagjini.png" group-title="EU
+ALBANIA",|ALB| TV DUKAGJINI
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95919
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TËVË 1 HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/teve.png" group-title="EU ALBANIA",|
+ALB| TËVË 1 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/192705
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| T7"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/t7.png" group-title="EU ALBANIA",|
+ALB| T7
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95920
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TV KOHA HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/tvkoha.png" group-title="EU
+ALBANIA",|ALB| TV KOHA HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95928
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ATV HD "
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/atv.png" group-title="EU ALBANIA",|
+ALB| ATV HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/121840
+#EXTINF:-1 tvg-ID="Klan TV HD.al" tvg-name="|ALB| KLAN TV HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/klan.png" group-title="EU ALBANIA",|
+ALB| KLAN TV HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95888
+#EXTINF:-1 tvg-ID="klantvhd.al" tvg-name="|ALB| KLAN 4K"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/klan.png" group-title="EU ALBANIA",|
+ALB| KLAN 4K
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95889
+#EXTINF:-1 tvg-ID="klanplus.al" tvg-name="|ALB| KLAN PLUS 4K"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/klanplus.png" group-title="EU
+ALBANIA",|ALB| KLAN PLUS 4K
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95890
+#EXTINF:-1 tvg-ID="klanplus.al" tvg-name="|ALB| KLAN PLUS HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/klanplus.png" group-title="EU
+ALBANIA",|ALB| KLAN PLUS HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95891
+#EXTINF:-1 tvg-ID="vizionplus.al" tvg-name="|ALB| VIZION PLUS HD" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/vizionplus.png" group-title="EU
+ALBANIA",|ALB| VIZION PLUS HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95892
+#EXTINF:-1 tvg-ID="vizionplus.al" tvg-name="|ALB| VIZION PLUS 4K" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/vizionplus.png" group-title="EU
+ALBANIA",|ALB| VIZION PLUS 4K
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95893
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| Kanal 10 FHD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/kanal10.png" group-title="EU
+ALBANIA",|ALB| Kanal 10 FHD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/111252
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KLAN KOSOVA HD" tvg-logo="" group-title="EU
+ALBANIA",|ALB| KLAN KOSOVA HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/646858
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KLAN MACEDONIA"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/klan.macedonia.png" group-title="EU
+ALBANIA",|ALB| KLAN MACEDONIA
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95895
+#EXTINF:-1 tvg-ID="alsatm.al" tvg-name="|ALB| ALSAT M HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/alsatm.png" group-title="EU
+ALBANIA",|ALB| ALSAT M HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95896
+#EXTINF:-1 tvg-ID="alsatm.al" tvg-name="|ALB| ALSAT M"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/alsatm.png" group-title="EU
+ALBANIA",|ALB| ALSAT M
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95897
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ALB UK"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/albuk.png" group-title="EU
+ALBANIA",|ALB| ALB UK
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/144819
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KTV KOHAVISION"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/ktv.png" group-title="EU ALBANIA",|
+ALB| KTV KOHAVISION
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95918
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TV ERA"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/era.png" group-title="EU ALBANIA",|
+ALB| TV ERA
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95921
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| MRT 2"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/mrt2.png" group-title="EU ALBANIA",|
+ALB| MRT 2
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95922
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SHENJA TV"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/shenja.png" group-title="EU
+ALBANIA",|ALB| SHENJA TV
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95923
+#EXTINF:-1 tvg-ID="firstchannel.al" tvg-name="|ALB| FIRST TV"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/firsttv.png" group-title="EU
+ALBANIA",|ALB| FIRST TV
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95924
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TV CHANNEL SHOKDER"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/background.png" group-title="EU
+ALBANIA",|ALB| TV CHANNEL SHOKDER
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95929
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TV MITROVICA"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/tvmitrovica.png" group-title="EU
+ALBANIA",|ALB| TV MITROVICA
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95930
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| BESA TV"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/besatv.png" group-title="EU
+ALBANIA",|ALB| BESA TV
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95933
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TV GLOBI"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/globi.png" group-title="EU
+ALBANIA",|ALB| TV GLOBI
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95936
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TV2 GOSTIVAR"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/tv2gostivar.png" group-title="EU
+ALBANIA",|ALB| TV2 GOSTIVAR
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95937
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| STAR PLUS SHKODER HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/starplusshkoder.png" group-title="EU
+ALBANIA",|ALB| STAR PLUS SHKODER HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95939
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TV KOPLIKU HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/tvkopliku.png" group-title="EU
+ALBANIA",|ALB| TV KOPLIKU HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95940
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TV LIRIA"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/tv.liria.png" group-title="EU
+ALBANIA",|ALB| TV LIRIA
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95942
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TEMA TV"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/tematv.png" group-title="EU
+ALBANIA",|ALB| TEMA TV
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95943
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TV KURAN"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/" group-title="EU ALBANIA",|ALB| TV
+KURAN
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/111249
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| RTV FONTANA HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/rtvfontana.png" group-title="EU
+ALBANIA",|ALB| RTV FONTANA HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/111251
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| BLEJ KANALE TV"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/blejkanaletv.png" group-title="EU
+ALBANIA",|ALB| BLEJ KANALE TV
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/589413
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| CCTV EARTH LIVE"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/cctvearth.png" group-title="EU
+ALBANIA",|ALB| CCTV EARTH LIVE
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/589414
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| CCTV VIENA LIVE"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/cctv.png" group-title="EU ALBANIA",|
+ALB| CCTV VIENA LIVE
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/589415
+#EXTINF:-1 tvg-ID="" tvg-name="==== RTSH ====="
+tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU
+ALBANIA",==== RTSH =====
+http://promo.sansat.biz:25461/images/promo/promo.mkv
+#EXTINF:-1 tvg-ID="rtsh1.al" tvg-name="|ALB| RTSH 1"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/rtsh1.png" group-title="EU
+ALBANIA",|ALB| RTSH 1
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95899
+#EXTINF:-1 tvg-ID="rtsh1.al" tvg-name="|ALB| RTSH 1 HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/rtsh1.png" group-title="EU
+ALBANIA",|ALB| RTSH 1 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95900
+#EXTINF:-1 tvg-ID="rtsh2.al" tvg-name="|ALB| RTSH 2 HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/rtsh2.png" group-title="EU
+ALBANIA",|ALB| RTSH 2 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95901
+#EXTINF:-1 tvg-ID="rtsh3.al" tvg-name="|ALB| RTSH 3"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/rtsh3.png" group-title="EU
+ALBANIA",|ALB| RTSH 3
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95902
+#EXTINF:-1 tvg-ID="rtshmuzikë.al" tvg-name="|ALB| RTSH MUZIKE"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/rtshmuzike.png" group-title="EU
+ALBANIA",|ALB| RTSH MUZIKE
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95903
+#EXTINF:-1 tvg-ID="rtshshqip.al" tvg-name="|ALB| RTSH SHQIP"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/rtshshqip.png" group-title="EU
+ALBANIA",|ALB| RTSH SHQIP
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95904
+#EXTINF:-1 tvg-ID="rtshgjirokastra.al" tvg-name="|ALB| RTSH GJIROKASTRA" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/rtsh.gjirokastra.png" group-title="EU
+ALBANIA",|ALB| RTSH GJIROKASTRA
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95905
+#EXTINF:-1 tvg-ID="rtsh24.al" tvg-name="|ALB| RTSH 24 HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/rtsh24.png" group-title="EU
+ALBANIA",|ALB| RTSH 24 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95906
+#EXTINF:-1 tvg-ID="rtshplus.al" tvg-name="|ALB| RTSH PLUS"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/rtshplus.png" group-title="EU
+ALBANIA",|ALB| RTSH PLUS
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95907
+#EXTINF:-1 tvg-ID="rtshkuvend.al" tvg-name="|ALB| RTSH KUVEND"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/rtshkuvend.png" group-title="EU
+ALBANIA",|ALB| RTSH KUVEND
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95908
+#EXTINF:-1 tvg-ID="" tvg-name="==== RTK ===== "
+tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU
+ALBANIA",==== RTK =====
+http://promo.sansat.biz:25461/images/promo/promo.mkv
+#EXTINF:-1 tvg-ID="rtk.al" tvg-name="|ALB| RTK 1"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/rtk1.png" group-title="EU ALBANIA",|
+ALB| RTK 1
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95910
+#EXTINF:-1 tvg-ID="rtk.al" tvg-name="|ALB| RTK 1 HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/rtk1.png" group-title="EU ALBANIA",|
+ALB| RTK 1 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95911
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| RTK 2"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/rtk2.png" group-title="EU ALBANIA",|
+ALB| RTK 2
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95912
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| RTK 3"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/rtk3.png" group-title="EU ALBANIA",|
+ALB| RTK 3
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95913
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| RTK 4"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/rtk4.png" group-title="EU ALBANIA",|
+ALB| RTK 4
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95914
+#EXTINF:-1 tvg-ID="" tvg-name="==== RTV21 ===== "
+tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU
+ALBANIA",==== RTV21 =====
+http://promo.sansat.biz:25461/images/promo/promo.mkv
+#EXTINF:-1 tvg-ID="rtv21.al" tvg-name="|ALB| RTV21"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/rtv21.png" group-title="EU
+ALBANIA",|ALB| RTV21
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95915
+#EXTINF:-1 tvg-ID="rtv21.al" tvg-name="|ALB| RTV21 HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/rtv21.png" group-title="EU
+ALBANIA",|ALB| RTV21 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95916
+#EXTINF:-1 tvg-ID="rtv21m.al" tvg-name="|ALB| RTV21 MAQEDONIA"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/rtv21macedonia.png" group-title="EU
+ALBANIA",|ALB| RTV21 MAQEDONIA
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95917
+#EXTINF:-1 tvg-ID="rtv21.al" tvg-name="|ALB| RTV21 MIX"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/rtv21mix.png" group-title="EU
+ALBANIA",|ALB| RTV21 MIX
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95925
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| RTV21 PLUS"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/rtv21plus.png" group-title="EU
+ALBANIA",|ALB| RTV21 PLUS
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95926
+#EXTINF:-1 tvg-ID="" tvg-name="===== LAJME ====="
+tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU
+ALBANIA",===== LAJME =====
+http://promo.sansat.biz:25461/images/promo/promo.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SYRI TELEVISION"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/syrivision.png" group-title="EU
+ALBANIA",|ALB| SYRI TELEVISION
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/365130
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SYRI VISION"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/syrivision.png" group-title="EU
+ALBANIA",|ALB| SYRI VISION
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95931
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SYRI VISION TV FHD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/syrivision.png" group-title="EU
+ALBANIA",|ALB| SYRI VISION TV FHD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/365308
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DIELLI"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/tvdielli.png" group-title="EU
+ALBANIA",|ALB| DIELLI
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/365127
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| A2 CNN"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/a2cnn.png" group-title="EU
+ALBANIA",|ALB| A2 CNN
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/365131
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TOP NEWS"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/topnews.png" group-title="EU
+ALBANIA",|ALB| TOP NEWS
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95945
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ABC NEWS"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/abcnews.png" group-title="EU
+ALBANIA",|ALB| ABC NEWS
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95946
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ORA NEWS HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/oratv" group-title="EU ALBANIA",|
+ALB| ORA NEWS HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95947
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| NEWS 24"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/news24.png" group-title="EU
+ALBANIA",|ALB| NEWS 24
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95948
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FAX NEWS"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/faxnew.png" group-title="EU
+ALBANIA",|ALB| FAX NEWS
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95949
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| REPORT TV"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/reporttv.png" group-title="EU
+ALBANIA",|ALB| REPORT TV
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95950
+#EXTINF:-1 tvg-ID="kanali7.al" tvg-name="|ALB| KANALI 7"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/kanali7.png" group-title="EU
+ALBANIA",|ALB| KANALI 7
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95952
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| EURONEWS ALBANIA"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/euronewsalbania.png" group-title="EU
+ALBANIA",|ALB| EURONEWS ALBANIA
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95956
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SCAN TV"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/scantv-.png" group-title="EU
+ALBANIA",|ALB| SCAN TV
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95957
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| GAZETA PANORAMA TV"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/background.png" group-title="EU
+ALBANIA",|ALB| GAZETA PANORAMA TV
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/589416
+#EXTINF:-1 tvg-ID="" tvg-name="===== FSHF SPORT ====="
+tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU
+ALBANIA",===== FSHF SPORT =====
+http://62.210.189.55:25461/images/promo/promo.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| RTSH SPORT HD" tvg-logo="" group-title="EU
+ALBANIA",|ALB| RTSH SPORT HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/644052
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| MCN24"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/mcn24.png" group-title="EU
+ALBANIA",|ALB| MCN24
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/433167
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| MCN TV"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/mcn.png" group-title="EU ALBANIA",|
+ALB| MCN TV
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/365129
+#EXTINF:-1 tvg-ID="" tvg-name="====== DIGITALB SPORT===="
+tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU
+ALBANIA",====== DIGITALB SPORT====
+http://promo.sansat.biz:25461/images/promo/promo.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT 1 HD" tvg-logo="" group-title="EU
+ALBANIA",|ALB| SUPER SPORT 1 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/656871
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT 1 4K" tvg-logo="" group-title="EU
+ALBANIA",|ALB| SUPER SPORT 1 4K
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/656872
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT 2 HD" tvg-logo="" group-title="EU
+ALBANIA",|ALB| SUPER SPORT 2 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/656873
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT 2 4K"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/supersport2.png" group-title="EU
+ALBANIA",|ALB| SUPER SPORT 2 4K
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/589402
+#EXTINF:-1 tvg-ID="supersport3.al" tvg-name="|ALB| SUPER SPORT 3 HD" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/supersport3.png" group-title="EU
+ALBANIA",|ALB| SUPER SPORT 3 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96129
+#EXTINF:-1 tvg-ID="supersport3.al" tvg-name="|ALB| SUPER SPORT 3 4K" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/supersport3.png" group-title="EU
+ALBANIA",|ALB| SUPER SPORT 3 4K
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96130
+#EXTINF:-1 tvg-ID="supersport4.al" tvg-name="|ALB| SUPER SPORT 4 HD" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/supersport4.png" group-title="EU
+ALBANIA",|ALB| SUPER SPORT 4 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96131
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT 4 4K"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/supersport4.png" group-title="EU
+ALBANIA",|ALB| SUPER SPORT 4 4K
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/589403
+#EXTINF:-1 tvg-ID="supersport5.al" tvg-name="|ALB| SUPER SPORT 5 HD" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/supersport5.png" group-title="EU
+ALBANIA",|ALB| SUPER SPORT 5 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96133
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT 5 4K"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/supersport5.png" group-title="EU
+ALBANIA",|ALB| SUPER SPORT 5 4K
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/589404
+#EXTINF:-1 tvg-ID="supersport6.al" tvg-name="|ALB| SUPER SPORT 6 HD" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/supersport6.png" group-title="EU
+ALBANIA",|ALB| SUPER SPORT 6 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96135
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT 6 4K"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/supersport6.png" group-title="EU
+ALBANIA",|ALB| SUPER SPORT 6 4K
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/589405
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT 7 HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/supersport7.png" group-title="EU
+ALBANIA",|ALB| SUPER SPORT 7 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96137
+#EXTINF:-1 tvg-ID="supersportkosova1.al" tvg-name="|ALB| SUPER SPORT KOSOVO 1 HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/supersportkosova1.png" group-
+title="EU ALBANIA",|ALB| SUPER SPORT KOSOVO 1 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/144814
+#EXTINF:-1 tvg-ID="supersportkosova2.al" tvg-name="|ALB| SUPER SPORT KOSOVO 2 HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/supersportkosova2.png" group-
+title="EU ALBANIA",|ALB| SUPER SPORT KOSOVO 2 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/144815
+#EXTINF:-1 tvg-ID="" tvg-name="===== TRING SPORTS ====="
+tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU
+ALBANIA",===== TRING SPORTS =====
+http://promo.sansat.biz:25461/images/promo/promo.mkv
+#EXTINF:-1 tvg-ID="Tring Sport News.al" tvg-name="|ALB| TRING SPORT NEWS" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/tringsportnews.png" group-title="EU
+ALBANIA",|ALB| TRING SPORT NEWS
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96140
+#EXTINF:-1 tvg-ID="Tring Sport News.al" tvg-name="|ALB| TRING SPORT NEWS HD" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/tringsportnews.png" group-title="EU
+ALBANIA",|ALB| TRING SPORT NEWS HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96141
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TRING SPORT 1 HD" tvg-logo="" group-title="EU
+ALBANIA",|ALB| TRING SPORT 1 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/649687
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TRING SPORT 1 HD BACKUP" tvg-logo="" group-
+title="EU ALBANIA",|ALB| TRING SPORT 1 HD BACKUP
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/649688
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TRING SPORT 3 HD |ONLY MATCH TIME|" tvg-
+logo="" group-title="EU ALBANIA",|ALB| TRING SPORT 3 HD |ONLY MATCH TIME|
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/649689
+#EXTINF:-1 tvg-ID="tringsport2.al" tvg-name="|ALB| TRING SPORT 2 HD" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/tringsport2.png" group-title="EU
+ALBANIA",|ALB| TRING SPORT 2 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96143
+#EXTINF:-1 tvg-ID="tringsport4.al" tvg-name="|ALB| TRING SPORT 4 HD (ONLY MATCH
+TIME)" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/tringsport4.png" group-
+title="EU ALBANIA",|ALB| TRING SPORT 4 HD (ONLY MATCH TIME)
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96145
+#EXTINF:-1 tvg-ID="" tvg-name="===== KUJTESA SPORT ====="
+tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU
+ALBANIA",===== KUJTESA SPORT =====
+http://promo.sansat.biz:25461/images/promo/promo.mkv
+#EXTINF:-1 tvg-ID="[KS] Kujtesa Sport 1.al" tvg-name="|ALB| K SPORT 1 HD" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/ksport1.png" group-title="EU ALBANIA",|
+ALB| K SPORT 1 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96147
+#EXTINF:-1 tvg-ID="[KS] Kujtesa Sport 2.al" tvg-name="|ALB| K SPORT 2 HD" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/ksport2.png" group-title="EU ALBANIA",|
+ALB| K SPORT 2 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96148
+#EXTINF:-1 tvg-ID="[KS] Kujtesa Sport 3.al" tvg-name="|ALB| K SPORT 3 HD" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/ksport3.png" group-title="EU ALBANIA",|
+ALB| K SPORT 3 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96149
+#EXTINF:-1 tvg-ID="[KS] Kujtesa Sport 4.al" tvg-name="|ALB| K SPORT 4 HD" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/ksport4.png" group-title="EU ALBANIA",|
+ALB| K SPORT 4 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96150
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| K SPORT 5 HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/ksport5.png" group-title="EU
+ALBANIA",|ALB| K SPORT 5 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/589406
+#EXTINF:-1 tvg-ID="" tvg-name="==== ART MOTION SPORT ====="
+tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU
+ALBANIA",==== ART MOTION SPORT =====
+http://promo.sansat.biz:25461/images/promo/promo.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ART SPORT 1 HD" tvg-logo="" group-title="EU
+ALBANIA",|ALB| ART SPORT 1 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/656870
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ART SPORT 2 HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/artsport2.png" group-title="EU
+ALBANIA",|ALB| ART SPORT 2 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96154
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ART SPORT 3 HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/artsport3.png" group-title="EU
+ALBANIA",|ALB| ART SPORT 3 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96155
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ART SPORT 4 HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/artsport4.png" group-title="EU
+ALBANIA",|ALB| ART SPORT 4 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/589407
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ART SPORT 5 HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/artsport5.png" group-title="EU
+ALBANIA",|ALB| ART SPORT 5 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/365304
+#EXTINF:-1 tvg-ID="" tvg-name="==== POLSAT SPORT ==== "
+tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU
+ALBANIA",==== POLSAT SPORT ====
+http://promo.sansat.biz:25461/images/promo/promo.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| POLSAT SPORT PREM. 1 HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/polsat1.png" group-title="EU
+ALBANIA",|ALB| POLSAT SPORT PREM. 1 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/603805
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| POLSAT SPORT PREM. 2 HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/polsat2.png" group-title="EU
+ALBANIA",|ALB| POLSAT SPORT PREM. 2 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/603806
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| POLSAT SPORT PREM. 3 HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/polsat3.png" group-title="EU
+ALBANIA",|ALB| POLSAT SPORT PREM. 3 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/603807
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| POLSAT SPORT PREM. 4 HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/polsat4.png" group-title="EU
+ALBANIA",|ALB| POLSAT SPORT PREM. 4 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/603808
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| POLSAT SPORT PREM. 5 HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/polsat5.png" group-title="EU
+ALBANIA",|ALB| POLSAT SPORT PREM. 5 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/603809
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| POLSAT SPORT PREM. 6 HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/polsat6.png" group-title="EU
+ALBANIA",|ALB| POLSAT SPORT PREM. 6 HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/603810
+#EXTINF:-1 tvg-ID="" tvg-name="===== DOKUMENTARE ====="
+tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU
+ALBANIA",===== DOKUMENTARE =====
+http://promo.sansat.biz:25461/images/promo/promo.mkv
+#EXTINF:-1 tvg-ID="expshkence.al" tvg-name="|ALB| EXPLORER SHKENCE" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/explorershkence.png" group-title="EU
+ALBANIA",|ALB| EXPLORER SHKENCE
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96081
+#EXTINF:-1 tvg-ID="expnatyra.al" tvg-name="|ALB| EXPLORER NATYRA" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/explorernatyra.png" group-title="EU
+ALBANIA",|ALB| EXPLORER NATYRA
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96082
+#EXTINF:-1 tvg-ID="exphistori.al" tvg-name="|ALB| EXPLORER HISTORI" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/explorerhistori.png" group-title="EU
+ALBANIA",|ALB| EXPLORER HISTORI
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96083
+#EXTINF:-1 tvg-ID="t-hist.al" tvg-name="|ALB| TRING HISTORY"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/tringhistori.png" group-title="EU
+ALBANIA",|ALB| TRING HISTORY
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96084
+#EXTINF:-1 tvg-ID="tringplanet.al" tvg-name="|ALB| TRING PLANET"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/tringplanet.png" group-title="EU
+ALBANIA",|ALB| TRING PLANET
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96085
+#EXTINF:-1 tvg-ID="tringworld.al" tvg-name="|ALB| TRING WORLD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/tringworld.png" group-title="EU
+ALBANIA",|ALB| TRING WORLD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96086
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SKY PLANET"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/skyplanet.png" group-title="EU
+ALBANIA",|ALB| SKY PLANET
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96090
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DISCOVERY SCIENCE"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/discoveryscience.png" group-
+title="EU ALBANIA",|ALB| DISCOVERY SCIENCE
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96093
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DISCOVERY CHANNEL"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/discoverychannel.png" group-
+title="EU ALBANIA",|ALB| DISCOVERY CHANNEL
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96094
+#EXTINF:-1 tvg-ID="nationalgeographic.al" tvg-name="|ALB| NATIONAL GEOGRAPHIC" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/nationalgeographic.png" group-title="EU
+ALBANIA",|ALB| NATIONAL GEOGRAPHIC
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96095
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| 24 KITCHEN"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/24kitchen.png" group-title="EU
+ALBANIA",|ALB| 24 KITCHEN
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96098
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| GALAXY HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/galaxyhd.png" group-title="EU
+ALBANIA",|ALB| GALAXY HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/229705
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| GEO HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/geohd.png" group-title="EU
+ALBANIA",|ALB| GEO HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/229706
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| E GJURMET SHQIPTARE HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/egjurmetshqiptare.png" group-
+title="EU ALBANIA",|ALB| E GJURMET SHQIPTARE HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/229688
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| E HISTORI"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/ehistori.png" group-title="EU
+ALBANIA",|ALB| E HISTORI
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/229689
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| E NATYRA HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/enatyra.png" group-title="EU
+ALBANIA",|ALB| E NATYRA HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/229690
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| E SHKENCA HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/eshkenca.png" group-title="EU
+ALBANIA",|ALB| E SHKENCA HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/229691
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ART DOKU 1 FHD" tvg-logo="" group-title="EU
+ALBANIA",|ALB| ART DOKU 1 FHD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/644053
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ART DOKU 2 FHD" tvg-logo="" group-title="EU
+ALBANIA",|ALB| ART DOKU 2 FHD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/644054
+#EXTINF:-1 tvg-ID="" tvg-name="===== PER FEMIJE ====="
+tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU
+ALBANIA",===== PER FEMIJE =====
+http://promo.sansat.biz:25461/images/promo/promo.mkv
+#EXTINF:-1 tvg-ID="bangbang.al" tvg-name="|ALB| BANG BANG"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/bangbang.png" group-title="EU
+ALBANIA",|ALB| BANG BANG
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95960
+#EXTINF:-1 tvg-ID="cufotv.al" tvg-name="|ALB| CUFO"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/cufo.png" group-title="EU ALBANIA",|
+ALB| CUFO
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95961
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| BABY TV"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/babytv.png" group-title="EU
+ALBANIA",|ALB| BABY TV
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95962
+#EXTINF:-1 tvg-ID="juniortv.al" tvg-name="|ALB| JUNIOR"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/junior.png" group-title="EU
+ALBANIA",|ALB| JUNIOR
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95963
+#EXTINF:-1 tvg-ID="tringkids.al" tvg-name="|ALB| TRING KIDS"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/tringkids.png" group-title="EU
+ALBANIA",|ALB| TRING KIDS
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95964
+#EXTINF:-1 tvg-ID="tringtring.al" tvg-name="|ALB| TRING TRING"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/tringtrng.png" group-title="EU
+ALBANIA",|ALB| TRING TRING
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95965
+#EXTINF:-1 tvg-ID="tiptv.al" tvg-name="|ALB| TIP TV"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/tiptv.png" group-title="EU
+ALBANIA",|ALB| TIP TV
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95966
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SOFIA"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/sofia.png" group-title="EU
+ALBANIA",|ALB| SOFIA
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95967
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| RTV21 JUNIOR"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/rtv21 junior.png" group-title="EU
+ALBANIA",|ALB| RTV21 JUNIOR
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95970
+#EXTINF:-1 tvg-ID="rtshfemijë.al" tvg-name="|ALB| RTSH FEMIJE"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/rtshfemije.png" group-title="EU
+ALBANIA",|ALB| RTSH FEMIJE
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95971
+#EXTINF:-1 tvg-ID="boomerang.al" tvg-name="|ALB| BOOMERANG"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/boomerang.png" group-title="EU
+ALBANIA",|ALB| BOOMERANG
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95973
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ART PRINCE KIDS"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/art.prince.png" group-title="EU
+ALBANIA",|ALB| ART PRINCE KIDS
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95974
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| CARTOON NETWORK"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/cartoonnetwork.png" group-title="EU
+ALBANIA",|ALB| CARTOON NETWORK
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95975
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DUCK TV"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/ducktv.png" group-title="EU
+ALBANIA",|ALB| DUCK TV
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95979
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TAO TAO HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/taotv.png" group-title="EU
+ALBANIA",|ALB| TAO TAO HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/229740
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| E TOM & JERRY"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/tomjerry.png" group-title="EU
+ALBANIA",|ALB| E TOM & JERRY
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/229741
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| E KIDS"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/kids.png" group-title="EU ALBANIA",|
+ALB| E KIDS
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/229742
+#EXTINF:-1 tvg-ID="" tvg-name="==== FILMA SHQIP ===="
+tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU
+ALBANIA",==== FILMA SHQIP ====
+http://62.210.189.55:25461/images/promo/promo.mkv
+#EXTINF:-1 tvg-ID="filmnje.al" tvg-name="|ALB| FILM NJE HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/filmnje.png" group-title="EU
+ALBANIA",|ALB| FILM NJE HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95987
+#EXTINF:-1 tvg-ID="filmdy.al" tvg-name="|ALB| FILM DY HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/filmdy.png" group-title="EU
+ALBANIA",|ALB| FILM DY HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95988
+#EXTINF:-1 tvg-ID="filmaksion.al" tvg-name="|ALB| FILM AKSION"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/filmaksion.png" group-title="EU
+ALBANIA",|ALB| FILM AKSION
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95989
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FILM HITS"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/filmhits.png" group-title="EU
+ALBANIA",|ALB| FILM HITS
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95990
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FILM AUTOR"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/filmautor.png" group-title="EU
+ALBANIA",|ALB| FILM AUTOR
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95991
+#EXTINF:-1 tvg-ID="filmdrame.al" tvg-name="|ALB| FILM DRAMA"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/filmdrama.png" group-title="EU
+ALBANIA",|ALB| FILM DRAMA
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95992
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FILM KOMEDI"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/filmkomedi.png" group-title="EU
+ALBANIA",|ALB| FILM KOMEDI
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95993
+#EXTINF:-1 tvg-ID="filmthriller.al" tvg-name="|ALB| FILM THRILLER" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/filmthriller.png" group-title="EU
+ALBANIA",|ALB| FILM THRILLER
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95994
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FILM FAMILY HD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/filmfamily.png" group-title="EU
+ALBANIA",|ALB| FILM FAMILY HD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95995
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| FILM STINET"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/filmstinet.png" group-title="EU
+ALBANIA",|ALB| FILM STINET
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95996
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TDC"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/tdc.png" group-title="EU ALBANIA",|
+ALB| TDC
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/95998
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| EURO FILM"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/eurofilm.png" group-title="EU
+ALBANIA",|ALB| EURO FILM
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96000
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DIGI GOLD"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/digigold.png" group-title="EU
+ALBANIA",|ALB| DIGI GOLD
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/229738
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DIGI GOLD 1"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/digigold1.png" group-title="EU
+ALBANIA",|ALB| DIGI GOLD 1
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/229737
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DIGI GOLD 2"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/digigold2.png" group-title="EU
+ALBANIA",|ALB| DIGI GOLD 2
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/229736
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DIGI GOLD 3"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/digigold3.png" group-title="EU
+ALBANIA",|ALB| DIGI GOLD 3
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/229735
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| DIGI GOLD 4"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/digigold4.png" group-title="EU
+ALBANIA",|ALB| DIGI GOLD 4
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/229734
+#EXTINF:-1 tvg-ID="" tvg-name="===== TRING FILMA ====="
+tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU
+ALBANIA",===== TRING FILMA =====
+http://promo.sansat.biz:25461/images/promo/promo.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TRING ACTION"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/tringaction.png" group-title="EU
+ALBANIA",|ALB| TRING ACTION
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96014
+#EXTINF:-1 tvg-ID="tringfantazi.al" tvg-name="|ALB| TRING FANTASY" tvg-
+logo="http://vodkom.com:25461/Logo/ALBANIA/tringfantasy.png" group-title="EU
+ALBANIA",|ALB| TRING FANTASY
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96015
+#EXTINF:-1 tvg-ID="tringlife.al" tvg-name="|ALB| TRING LIFE"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/tringlife.png" group-title="EU
+ALBANIA",|ALB| TRING LIFE
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96016
+#EXTINF:-1 tvg-ID="tringcomedy.al" tvg-name="|ALB| TRING COMEDY"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/tringcomedy.png" group-title="EU
+ALBANIA",|ALB| TRING COMEDY
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96017
+#EXTINF:-1 tvg-ID="tringsuper.al" tvg-name="|ALB| TRING SUPER"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/tringsuper.png" group-title="EU
+ALBANIA",|ALB| TRING SUPER
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96018
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TRING 3"
+tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/tring3.png" group-title="EU
+ALBANIA",|ALB| TRING 3
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96019
+
+http://m3u.pro:88/IaZZ5TbdgaMbBQi/ekgkwrQXJnodXQf/96069
+
